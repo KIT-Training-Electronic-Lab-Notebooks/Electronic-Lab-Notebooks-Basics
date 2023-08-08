@@ -1,5 +1,5 @@
 ---
-title: "FAIR Learning Unit Lesson Plan Template DEMO"
+title: "Best title ever"
 author: 
 - "Skills4EOSC T2.3"
 - Carolin Leister
