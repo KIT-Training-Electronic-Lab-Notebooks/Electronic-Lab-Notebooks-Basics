@@ -1,7 +1,7 @@
 ---
 title: "FAIR Learning Unit Lesson Plan Template DEMO"
 author: "Skills4EOSC T2.3"
-	- Carolin Leister
+- Carolin Leister
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
