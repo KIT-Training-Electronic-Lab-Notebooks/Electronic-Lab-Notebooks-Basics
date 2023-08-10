@@ -6,7 +6,7 @@ authors:
     orcid: https://orcid.org/0000-0002-6940-0024
 title: "Training Name"
 abstract: "Training description"
-version: 1.0.0
+version: 1.0.1
 doi: 10.5072/zenodo.1234567
 date-released: 2023-10-17
 license: CC-BY-4.0
