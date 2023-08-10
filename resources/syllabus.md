@@ -42,6 +42,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 ## Training Description
 - what is the main goal/purpose of this training
 - short training description
+- change something
 
 ## Target audience: PhD Students
 
