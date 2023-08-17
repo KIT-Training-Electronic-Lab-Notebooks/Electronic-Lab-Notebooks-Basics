@@ -8,5 +8,5 @@ Materials can be found on [GitHub](https://github.com/FAIR-by-Design-Demo-CL/My-
 # References
 
 - [Filiposka et al. (2023) Draft Methodology for FAIR-by-Design Learning Materials (1.2). Zenodo. https://doi.org/10.5281/zenodo.7875541](https://doi.org/10.5281/zenodo.7875541)
-- [1]:  https://doi.org/10.5281/zenodo.7875541 "Title"
+[1]:  https://doi.org/10.5281/zenodo.7875541 "Title"
 
