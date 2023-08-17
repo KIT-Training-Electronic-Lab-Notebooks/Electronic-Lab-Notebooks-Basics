@@ -9,10 +9,9 @@ title: Training Name
 abstract: Training description
 version: 1.0.1
 doi: 10.5072/zenodo.1234567
-date-released: '2023-10-17'
+date-released: 2023-10-17
 license: CC-BY-4.0
 license-url: https://creativecommons.org/publicdomain/zero/1.0/legalcode
-type: software
 keywords:
   - thefirstkeyword
   - thesecondkeyword
