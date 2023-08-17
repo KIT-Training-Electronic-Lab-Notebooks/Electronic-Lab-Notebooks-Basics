@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: If you use these materials, please cite it as below.
 authors:
   - family-names: Leister
     given-names: Carolin
@@ -16,9 +16,8 @@ doi: 10.5072/zenodo.1234567
 date-released: 2023-10-17
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
-type: generic
 keywords:
- - thefirstkeyword
- - thesecondkeyword
- - "a third keyword"
+  - thefirstkeyword
+  - thesecondkeyword
+  - "a third keyword"
 repository: "https://github.com/citation-file-format/my-research-software"
