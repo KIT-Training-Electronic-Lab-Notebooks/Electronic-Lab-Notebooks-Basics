@@ -1,9 +1,8 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "title"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Carolin Leister
 tags: 
     - Keywords
     - Tags 
@@ -28,7 +27,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Title 
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time: when it will be offered
@@ -46,7 +45,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 ## Target audience: PhD Students
 
-## Expertise Level / Skill Level: Beginner ~~/ Intermediate / Advanced~~
+## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
 
 ## Primary Language: English
 
@@ -86,8 +85,7 @@ Keywords or tags used to describe the training.
 - format: Name Surname, comma separated
 
 # Trainer(s)
-- List of people involved in delivering the training
-- format: Leister Carolin [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-6940-0024), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- Leister Carolin [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-6940-0024)
 
 ## Contact information
 - how to reach out to training organizers
