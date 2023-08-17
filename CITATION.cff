@@ -5,6 +5,10 @@ authors:
     given-names: Carolin
     orcid: https://orcid.org/0000-0002-6940-0024
     affiliation: KIT
+  - family-names: Leister
+    given-names: Carolin
+    orcid: https://orcid.org/0000-0002-6940-0024
+    affiliation: KIT
 title: "Training Name"
 abstract: "Training description"
 version: 1.0.1
