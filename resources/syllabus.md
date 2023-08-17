@@ -1,6 +1,6 @@
 ---
 # RDA learning materials metadata minimal set
-title: "title"
+title: "00 Welcome"
 author: 
     - Carolin Leister
 tags: 
