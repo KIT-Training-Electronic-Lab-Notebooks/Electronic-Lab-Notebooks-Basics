@@ -3,7 +3,7 @@ message: 'If you use these materials, please cite it as below.'
 authors:
   - family-names: Leister
     given-names: Carolin
-    orcid: 'https://orcid.org/0000-0002-6940-0024'
+    orcid: https://orcid.org/0000-0002-6940-0024
     affiliation: KIT
 title: Training Name
 abstract: Training description
