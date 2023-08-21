@@ -8,7 +8,7 @@ Use these templates together with
 - the [FAIR-by-Design Methodology for Learning Materials Development](https://fair-by-design-methodology.github.io/FAIR-by-Design_Book/).
 - the [FAIR-by-Design Methodology Training of Trainers Learning materials](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/)
 
-All content is available under CC0 [license](./LICENSE).
+All content is available under CC BY 4.0 [license](./LICENSE).
 
 
 ## Want to learn how to implement the FAIR-by-Design Methodology?
