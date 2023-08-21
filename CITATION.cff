@@ -5,16 +5,15 @@ authors:
     given-names: Carolin
     orcid: https://orcid.org/0000-0002-6940-0024
     affiliation: KIT
-title: Training Name
-abstract: Training description
-version: 1.0.1
-doi: 10.5072/zenodo.1234567
+title: "Training Name"
+abstract: "Training description"
+version: 1.0.0
+doi: 10.5070/zenodo.123
 date-released: 2023-10-17
 license: CC-BY-4.0
-license-url: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
 keywords:
-  - thefirstkeyword
-  - thesecondkeyword
-  - a third keyword
-repository: https://github.com/citation-file-format/my-research-software
-
+ - "thefirstkeyword"
+ - "thesecondkeyword"
+ - "a third keyword"
+repository: "https://github.com/citation-file-format/my-research-software"

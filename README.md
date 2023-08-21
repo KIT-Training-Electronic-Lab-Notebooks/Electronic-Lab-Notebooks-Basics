@@ -31,6 +31,7 @@ May your learning materials always be FAIR!
 The Skills4EOSC FAIR-by-Design Methodology Team
 
 
+
 # Notes
 
 Based on the FAIR-by-Design Learning Method, and its [Templates](https://github.com/FAIR-by-Design-Methodology/templates).
@@ -41,4 +42,5 @@ Materials can be found on [GitHub](https://github.com/FAIR-by-Design-Demo-CL/My-
 # References
 
 - [Filiposka et al. (2023) Draft Methodology for FAIR-by-Design Learning Materials (1.2). Zenodo. https://doi.org/10.5281/zenodo.7875541](https://doi.org/10.5281/zenodo.7875541)
+
 
