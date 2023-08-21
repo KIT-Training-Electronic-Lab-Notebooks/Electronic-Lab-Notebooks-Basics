@@ -11,6 +11,8 @@ tags:
 
 Introduction
 
+An [Internal Link](../Open Data/lesson5.md#the-data-life-cycle)
+
 ## Learning Objectives
 - min one learning objective using the verbs from the Blooms taxonomy
 
