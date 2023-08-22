@@ -1,10 +1,12 @@
 ---
 title: "00 Welcome"
-author: "Skills4EOSC T2.3"
+author: 
+    - Carolin Leister
 tags: 
     - FAIR-by-Design Learning Materials
     - FAIR Learning Objects
     - FAIR Learning Unit Template
+    - Welcome
 ---
 
 # Welcome

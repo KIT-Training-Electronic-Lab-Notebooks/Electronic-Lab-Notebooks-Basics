@@ -4,9 +4,9 @@ title: "Electronic Lab Notebooks"
 author: 
     - Carolin Leister
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - Electronic Lab Notebooks
+    - Chemotion 
+    - Kadi4Mat
 
 abstract: "A brief synopsis about or description of the learning resource."
 primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
