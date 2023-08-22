@@ -1,6 +1,6 @@
 ---
 # RDA learning materials metadata minimal set
-title: "00 Welcome"
+title: "Electronic Lab Notebooks"
 author: 
     - Carolin Leister
 tags: 
@@ -30,7 +30,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 # Title 
 # Type (Course/Workshop/Webinar)
 
-## Date/Time: when it will be offered
+## Date/Time
 - put available from date if it is self-paced
 
 ## Location
