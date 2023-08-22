@@ -1,0 +1,32 @@
+{
+  "creators": [
+    {
+      "affiliation": "KIT",
+      "name": "Leister, Carolin",
+      "orcid": "0000-0002-6940-0024"
+    }
+  ],
+  "description": "Training description",
+  "keywords": [
+    "thefirstkeyword",
+    "thesecondkeyword",
+    "a third keyword"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "publication_date": "2023-10-17",
+  "title": "Electronic Lab Notebooks",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
