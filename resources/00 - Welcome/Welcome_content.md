@@ -40,8 +40,9 @@ Introduction
 ### Content of this Learning material
 
 We will start with [1.1_Introduction_Electronic_Lab_Notebooks](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md), to learn what [what a lab notebook is](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#what-is-a-laboratory-notebook).
+What are the [advantages of ELNs](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#Advantages%20of%20ELNs).
 
-This is a test [syllabus](../syllabus.md#Training%20Description%7Csyllabus)
+This is a test [syllabus](../syllabus.md#Training%20Description)
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
