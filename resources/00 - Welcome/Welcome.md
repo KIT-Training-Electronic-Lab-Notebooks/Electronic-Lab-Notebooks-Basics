@@ -45,6 +45,9 @@ We will start with [1.1_Introduction_Electronic_Lab_Notebooks](../01%20-%20Elect
 What are the [advantages of ELNs](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#Advantages%20of%20ELNs).
 
 This is a test [syllabus](../syllabus.md#Training%20Description)
+And this is another [syllabus](../syllabus.md)
+And this is a header in the [Training Description](../syllabus.md#training-description)
+
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
