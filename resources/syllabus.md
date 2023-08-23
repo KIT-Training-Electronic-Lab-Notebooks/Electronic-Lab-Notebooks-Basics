@@ -9,7 +9,7 @@ tags:
     - Kadi4Mat
 
 abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
+primaryLanguage: "en"
 license: "A license document that applies to this content, typically indicated by URL"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"

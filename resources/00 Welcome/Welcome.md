@@ -41,8 +41,8 @@ Introduction
 
 ### Content of this Learning material
 
-We will start with [1.1_Introduction_Electronic_Lab_Notebooks](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md), to learn what [what a lab notebook is](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#what-is-a-laboratory-notebook).
-What are the [advantages of ELNs](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#advantages-of-elns)
+We will start with [1.1_Introduction_Electronic_Lab_Notebooks](../01%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md), to learn what [what a lab notebook is](../01%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#what-is-a-laboratory-notebook).
+What are the [advantages of ELNs](../01%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#advantages-of-elns)
 
 - This is a test link to the [syllabus](../syllabus.md)
 - And this is a header in the syllabus called [Training Description](../syllabus.md#training-description)
