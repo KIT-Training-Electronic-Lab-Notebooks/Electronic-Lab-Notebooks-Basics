@@ -87,10 +87,10 @@ expertiseLevel: "beginner"
 - if any
 
 ## Author(s)
-- Leister, Carolin
+- Carolin Leister
 
 # Trainer(s)
-- Leister Carolin [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-6940-0024)
+- Carolin Leister [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-6940-0024)
 
 ## Contact information
 - how to reach out to training organizers
