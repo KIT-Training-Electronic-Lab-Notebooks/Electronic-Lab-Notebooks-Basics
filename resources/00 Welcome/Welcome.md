@@ -46,7 +46,7 @@ What are the [advantages of ELNs](../01%20Electronic%20Lab%20Notebooks/1.1_Intro
 
 - This is a test link to the [syllabus](../syllabus.md)
 - And this is a header in the syllabus called [Training Description](../syllabus.md#training-description)
-- And this is another test link [syllabus](../../syllabus.md) with a header [Training Description](../../syllabus.md#training-description)
+- And this is another test link [syllabus](../../../syllabus.md) with a header [Training Description](../../../syllabus.md#training-description)
 
 
 ## Summary
