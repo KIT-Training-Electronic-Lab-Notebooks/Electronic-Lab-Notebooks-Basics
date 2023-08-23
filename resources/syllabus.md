@@ -21,8 +21,8 @@ learningOutcome:
     - skills or 
     - abilities 
     - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+accessCost: "N"
+expertiseLevel: "beginner"
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
@@ -43,32 +43,38 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 - short training description
 - change something
 
-## Target audience: PhD Students
+## Target audience:
+- Students
+- PhD Students
+## Expertise Level / Skill Level:
+- Beginner
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+## Primary Language:
+- English
 
-## Primary Language: English
-
-## Access Cost: N
+## Access Cost:
+- N
 
 ## Prerequisites
 - if any write here
 
 ## Duration
-- total training duration
+- 1.5 hours
 
 ## Training objectives
 - list of specific training objectives
 
 ## Keywords
-Keywords or tags used to describe the training.
+ - Electronic Lab Notebooks
+ - Chemotion 
+ - Kadi4Mat
 
 ## Agenda: Training Schedule - Training Structure
 | Date/Time | Topic             |
 |-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
+| 9:00  | Check-in   |
+| 9:05  | Welcome   |
+| 9:15  | Introduction      |
 | timeslot  | training unit 3   |
 | timeslot  | lunch break       |
 | timelsot  | training unit 4   |
@@ -81,8 +87,7 @@ Keywords or tags used to describe the training.
 - if any
 
 ## Author(s)
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+- Leister, Carolin
 
 # Trainer(s)
 - Leister Carolin [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0002-6940-0024)
