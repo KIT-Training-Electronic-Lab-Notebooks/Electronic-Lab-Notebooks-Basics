@@ -64,6 +64,10 @@ More information regarding **research data management at KIT** can be found at t
 "More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." ([Baker 2016](https://doi.org/10.1038/533452a))
 
 "More than half pointed to insufficient replication in the lab" ([Baker 2016](https://doi.org/10.1038/533452a))
+
+#### Exercise 1.1
+
+**Question:** What are the advantages of research data management? What are the advantages of good structure?
 ### Good Research Practice
 
 - Research data must be well documented
@@ -86,8 +90,7 @@ More information regarding **good research practice at KIT** can be found on the
 
 - Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
 - Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf).
-
-#### Exercise 1.1
+#### Exercise 1.2
 
 Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
@@ -122,6 +125,30 @@ An overview on these principles can be found at the [website of GO FAIR](https:/
 - https://book.fosteropenscience.eu/
 
 ### Persistent Identifiers (PIDs)
+
+What is a PID?
+- permanent digital identifier
+- consists of digits and/or alphanumeric characters
+- refers directly to the record or object
+
+> This information is used from the [Factsheet | DOI](https://doi.org/10.5281/zenodo.8178870) licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+**Digital Object Identifiers (DOI):**
+
+- The Digital Object Identifier (DOI) is a persistent identifier to uniquely and permanently identify physical, digital and abstract objects following international standards. DOIs enable the sustainable linking and traceability of digital objects in the world wide web, even if the URL changes.
+- DOIs are primarily used for scientific, professional and regulatory publications. The metadata of the publications are directly linked to the individual identifier. Both factors significantly increase the findability and visibility of research output.
+- Example: [https://doi.org/10.5281/zenodo.8178870](https://doi.org/10.5281/zenodo.8178870)
+
+> The following information is used from the [Factsheet | ORCID](https://doi.org/10.5281/zenodo.8178605) licensed unter a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+**Open Researcher and Contributor iD (ORCID):**
+
+- The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with scholars and researchers worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
+- Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
+
+#### Exercise 1.3
+
+**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update it.
 
 ### Metadata
 
