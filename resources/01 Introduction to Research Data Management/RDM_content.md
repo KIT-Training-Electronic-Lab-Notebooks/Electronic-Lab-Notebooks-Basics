@@ -64,15 +64,46 @@ More information regarding **research data management at KIT** can be found at t
 "More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." ([Baker 2016](https://doi.org/10.1038/533452a))
 
 "More than half pointed to insufficient replication in the lab" ([Baker 2016](https://doi.org/10.1038/533452a))
-### Good Research Practise
+### Good Research Practice
+
+- Research data must be well documented
+- Published research data must be kept accessible and comprehensible
+- Published research data must be reusable
+- Quality assurance, e.g. by keeping laboratory records
+
+"Researchers document all information relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed."
 
 “Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
 
-More information regarding **good research practise at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
+More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
+**English version:**
 - Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. DOI: [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601)..
 - Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). Online: [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
-- Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
+
+**German version:**
+- Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://doi.org/10.5281/zenodo.6472827.
+- Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). Online verfügbar unter https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf.
+
+#### Exercise 1.1
+
+Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
+
+- Guideline 7: Cross-phase quality assurance
+- Guideline 12: Documentation
+- Guideline 13: Providing public access to research results
+- Guideline 17: Archiving
+
+OR
+
+Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
+
+- Article 8: Cross-phase Quality Assurance and Research Design
+- Article 11: Documentation
+- Article 12: Archiving
+- Article 13: Scientific Publication and Providing Public Access to Research Results
+
+**Question:** What influence does this policy have on your daily work? How does it affect your research?
 
 ### FAIR principles
 
