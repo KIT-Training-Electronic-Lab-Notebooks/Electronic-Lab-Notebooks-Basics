@@ -24,6 +24,7 @@ At the end of the section the learners can ...
 
 - **Describe** the basic principles of research data management
 - **Explain** the FAIR principles
+- **Explain** the difference between a PID and an URL
 
 ### Target Audience
 - attendees of this course
@@ -126,10 +127,21 @@ An overview on these principles can be found at the [website of GO FAIR](https:/
 
 ### Persistent Identifiers (PIDs)
 
-What is a PID?
+> The following information is translated from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
+
+What is a persistent identifier (PID)?
 - permanent digital identifier
 - consists of digits and/or alphanumeric characters
 - refers directly to the record or object
+
+Until now, scientific datasets were mostly accessible via specific web addresses (URLs). From the perspective of efficient research data management, this is problematic for several reasons.
+
+- URLs do not refer to a specific content, but to a 'location' on the internet. If the desired content, such as a scientific dataset, is moved to another location, the URL for finding it becomes useless.
+- Furthermore, it is often the case that a dataset is published in several places on the internet, so that several URLs refer to it, which is impractical for reliable scientific citation.
+- Last but not least, URLs often contain semantic references to the domain on which they are based and are therefore not suitable as neutral identifiers.
+
+For the above reasons, the concept of the persistent identifier was developed, which has become widely accepted in the scientific community as the standard for identifying digital objects in recent years.
+
 
 > This information is used from the [Factsheet | DOI](https://doi.org/10.5281/zenodo.8178870) licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
