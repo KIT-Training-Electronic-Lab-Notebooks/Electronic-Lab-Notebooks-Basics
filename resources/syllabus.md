@@ -25,7 +25,7 @@ accessCost: "N"
 expertiseLevel: "beginner"
 ---
 
-# Electronic Lab Notebooks - Support from data acquisition to paper publication 
+# Electronic Lab Notebooks - From data acquisition to paper publication
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time
