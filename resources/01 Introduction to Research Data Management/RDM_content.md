@@ -1,5 +1,5 @@
 ---
-title: "01 Introduction to Research Data Management"
+title: "1.1 Introduction to Research Data Management"
 author: 
     - Carolin Leister
 tags: 
