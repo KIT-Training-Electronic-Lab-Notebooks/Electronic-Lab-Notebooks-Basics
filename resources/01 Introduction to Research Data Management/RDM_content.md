@@ -78,12 +78,14 @@ More information regarding **research data management at KIT** can be found at t
 More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
 **English version:**
-- Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. DOI: [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601)..
-- Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). Online: [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
+
+- Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601)..
+- Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
 
 **German version:**
-- Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://doi.org/10.5281/zenodo.6472827.
-- Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). Online verfügbar unter https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf.
+
+- Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
+- Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf).
 
 #### Exercise 1.1
 
@@ -134,7 +136,7 @@ In order for research data to remain comprehensible, consistent and interoperabl
 For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x).
 ## Summary
 
-==At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)==
+<span style="background:rgba(205, 244, 105, 0.55)">At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)</span>
 
 ## Further information on RDM
 
