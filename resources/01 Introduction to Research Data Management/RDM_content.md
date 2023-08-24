@@ -11,7 +11,7 @@ tags:
 
 # 1.1 Introduction to Research Data Management
 
-This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed as a prerequisite for Chapter 2**.
+This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed for Chapter 2**.
 
 Please note that this section will not go into too much detail as there are many courses out there describing the principles of research data management. At the end of this section links will be provided about where you can find further information.
 
@@ -76,7 +76,7 @@ More information regarding **research data management at KIT** can be found at t
 - Published research data must be reusable
 - Quality assurance, e.g. by keeping laboratory records
 
-"Researchers document all information relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed."
+"Researchers **document all information** relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed."
 
 “Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
 
@@ -121,20 +121,21 @@ An overview on these principles can be found at the [website of GO FAIR](https:/
 > [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
 
-- Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. https://doi.org/10.1038/sdata.2016.18.
-- https://www.go-fair.org/fair-principles/
-- https://book.fosteropenscience.eu/
+- Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+- [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
+- [https://book.fosteropenscience.eu/](https://book.fosteropenscience.eu/)
 
 ### Persistent Identifiers (PIDs)
 
 > The following information is translated from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
 
-What is a persistent identifier (PID)?
+**What is a persistent identifier (PID)?**
+
 - permanent digital identifier
 - consists of digits and/or alphanumeric characters
 - refers directly to the record or object
 
-Until now, scientific datasets were mostly accessible via specific web addresses (URLs). From the perspective of efficient research data management, this is problematic for several reasons.
+Until now, scientific datasets were mostly accessible via specific web addresses (URLs, Uniform Resource Locator). From the perspective of efficient research data management, this is problematic for several reasons.
 
 - URLs do not refer to a specific content, but to a 'location' on the internet. If the desired content, such as a scientific dataset, is moved to another location, the URL for finding it becomes useless.
 - Furthermore, it is often the case that a dataset is published in several places on the internet, so that several URLs refer to it, which is impractical for reliable scientific citation.
@@ -143,7 +144,7 @@ Until now, scientific datasets were mostly accessible via specific web addresses
 For the above reasons, the concept of the persistent identifier was developed, which has become widely accepted in the scientific community as the standard for identifying digital objects in recent years.
 
 
-> This information is used from the [Factsheet | DOI](https://doi.org/10.5281/zenodo.8178870) licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+> The following information is used from the [Factsheet | DOI](https://doi.org/10.5281/zenodo.8178870) licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 **Digital Object Identifiers (DOI):**
 
@@ -160,7 +161,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 #### Exercise 1.3
 
-**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update it.
+**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update your account.
 
 ### Metadata
 
