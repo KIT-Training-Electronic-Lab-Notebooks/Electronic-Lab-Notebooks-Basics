@@ -41,13 +41,10 @@ Introduction
 
 ### Content of this Learning material
 
-We will start with [1.1_Introduction_Electronic_Lab_Notebooks](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md), to learn what [what a lab notebook is](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#what-is-a-laboratory-notebook).
-What are the [advantages of ELNs](../01%20-%20Electronic%20Lab%20Notebooks/1.1_Introduction_Electronic_Lab_Notebooks.md#advantages-of-elns).
+This course will start with a short **introduction into the basic principles of research data management** ([01 Introduction to Research Data Management](../01%20Introduction%20to%20Research%20Data%20Management/RDM_content.md)).
+
+Then we will dive into the topic of **Electronic Lab Notebooks**. We start with a **introduction** ([2.1_Introduction_Electronic_Lab_Notebooks](../02%20Electronic%20Lab%20Notebooks/2.1_Introduction_Electronic_Lab_Notebooks.md)), where you will learn what are the advantages of ELNs. Afterwards we will have a look at two Electronic Lab Notebooks that were developed at KIT (**Chemotion** and **Kadi4Mat**).
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
-
-## Suggested Reading
-- provide a list of references for further reading that should help clarify the content of the learning unit and elevate the knowledge level
-- [Markdown guide](https://www.markdownguide.org/), free and open-source reference guide that explains how to use Markdown.
 
