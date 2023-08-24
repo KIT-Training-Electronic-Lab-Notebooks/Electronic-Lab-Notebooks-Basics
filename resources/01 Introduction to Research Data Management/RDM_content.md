@@ -53,7 +53,7 @@ At the end of the section the learners can ...
 ### Research data management
 
 
-![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png) {: style="height:150px;"}
+![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png){: style="height:150px;"}
 
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the CC BY SA 4.0 license
 ### Why research data management?
