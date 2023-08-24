@@ -69,6 +69,16 @@ Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
 ### Persistent Identifiers (PIDs)
 
 ### Metadata
+
+> The content in this section is adapted from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm_metadata.php).
+
+Metadata is **structured, machine-readable information about research data**, so-called "data about data". A classic example is bibliographic metadata such as author, title, year of publication, and publisher. They serve several functions: to ensure the **discoverability** of the data, to improve the **understandability** of the data, and to enable the **processing** and **reuse** of the data ([Putnings et al. 2021](https://www.degruyter.com/document/doi/10.1515/9783110657807/html), [Riley 2017](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)).
+
+Metadata is stored in a structured way so that it can be read and processed by both humans and machines. Various data exchange formats have become established for this purpose, such as **XML** (eXtensible Markup Language) and **JSON** (JavaScript Object Notation).
+
+In order for research data to remain comprehensible, consistent and interoperable, it is important that the associated metadata follow a certain structure. For this reason, a number of cross-disciplinary as well as discipline-specific **metadata schemas** have evolved and are now considered standards. More detailed information can be found at [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/).
+
+For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x).
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
