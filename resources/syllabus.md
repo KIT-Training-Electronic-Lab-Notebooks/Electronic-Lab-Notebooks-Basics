@@ -25,9 +25,7 @@ accessCost: "N"
 expertiseLevel: "beginner"
 ---
 
-![Header with Skills4EOSC funding information](./attachments/header.png)
-
-# Title 
+# Electronic Lab Notebooks - Support from data acquisition to paper publication 
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time
