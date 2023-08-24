@@ -9,25 +9,30 @@ tags:
     - FAIR
 ---
 
-# Welcome
+# 1.1 Introduction to Research Data Management
 
-Introduction
+This section provides a short introduction into the principles of research data mangement. Its purpose is to provide the basic knowledge of research data management needed as a prerequisite for Chapter 2.
+
+Please note that this section will not go into too much detail as there are many courses out there describing the principles of research data management. At the end of this section links will be provided about where you can find further information.
 
 
 ---
 
 ## Syllabus Elements
 ### Learning Objectives
-- min one learning objective using the verbs from the Blooms taxonomy
+At the end of the section the learners can ...
+
+- **Describe** the basic principles of research data management
+- **Explain** the FAIR principles
 
 ### Target Audience
-- who is this learning unit meant for
+- attendees of this course
 
 ### Duration
 - time needed to learn the provided content
 
 ### Prerequisites
-- list any knowledge that is required so that the learning unit can be followed
+- Complete [00 Welcome](../00%20Welcome/Welcome_content.md)
 
 ### Learning Tools
 
@@ -48,6 +53,8 @@ Introduction
 ### Good Research Practise
 
 ### FAIR
+
+#### Metadata
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
