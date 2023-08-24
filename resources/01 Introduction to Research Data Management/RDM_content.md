@@ -54,10 +54,25 @@ At the end of the section the learners can ...
 
 ### FAIR
 
-#### Metadata
+### Persistent Identifiers (PIDs)
+
+### Metadata
 ## Summary
 
 At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+
+## Further information on RDM
+
+- [Research Data Management at KIT RDM@KIT](https://www.rdm.kit.edu/english/index.php)
+- [forschungsdaten.info](https://forschungsdaten.info/) (DE)
+- [German National Research Data Infrastructure (NFDI)](https://www.nfdi.de/?lang=en)
+
+## Tutorials on RDM
+
+- [OpenCourse at KIT](https://opencourses.kit.edu/goto.php?target=crs_1206&client_id=opencourses)
+- [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/)(EN and DE)
+- [forschungsdaten.info - calender](https://forschungsdaten.info/kalender-index/) (DE)
+- [Helmholtz Information & Data Science Academy (HiDA)](https://www.helmholtz-hida.de/course-catalog/en/)
 
 ## Suggested Reading
 - Deutsche Forschungsgemeinschaft (DFG) (2015): DFG Guidelines on the Handling of Research Data. [https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
