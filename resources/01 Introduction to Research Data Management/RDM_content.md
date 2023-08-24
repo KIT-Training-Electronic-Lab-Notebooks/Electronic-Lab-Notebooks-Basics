@@ -11,7 +11,7 @@ tags:
 
 # 1.1 Introduction to Research Data Management
 
-This section provides a short introduction into the principles of research data mangement. Its purpose is to provide the basic knowledge of research data management needed as a prerequisite for Chapter 2.
+This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed as a prerequisite for Chapter 2**.
 
 Please note that this section will not go into too much detail as there are many courses out there describing the principles of research data management. At the end of this section links will be provided about where you can find further information.
 
@@ -64,7 +64,19 @@ At the end of the section the learners can ...
 
 Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
 
-### FAIR
+### FAIR principles
+
+According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles."
+
+An overview can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
+
+![FAIR Data Principles](attachments/02_open_research_data_material.png)
+> FAIR Data Principles from the [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
+
+
+- Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. https://doi.org/10.1038/sdata.2016.18.
+- https://www.go-fair.org/fair-principles/
+- https://book.fosteropenscience.eu/
 
 ### Persistent Identifiers (PIDs)
 
@@ -92,7 +104,7 @@ At the end provide a short summary of the main points of the learning unit (thes
 ## Tutorials on RDM
 
 - [OpenCourse at KIT](https://opencourses.kit.edu/goto.php?target=crs_1206&client_id=opencourses)
-- [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/)(EN and DE)
+- [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/) (EN and DE)
 - [forschungsdaten.info - calender](https://forschungsdaten.info/kalender-index/) (DE)
 - [Helmholtz Information & Data Science Academy (HiDA)](https://www.helmholtz-hida.de/course-catalog/en/)
 
@@ -101,4 +113,5 @@ At the end provide a short summary of the main points of the learning unit (thes
 - Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601).
 - Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
 - Perkel (2023): How to make your scientific data accessible, discoverable and useful. Nature 618 (7967), 1098–1099. [https://doi.org/10.1038/d41586-023-01929-7](https://doi.org/10.1038/d41586-023-01929-7).
+- Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3, S. 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
