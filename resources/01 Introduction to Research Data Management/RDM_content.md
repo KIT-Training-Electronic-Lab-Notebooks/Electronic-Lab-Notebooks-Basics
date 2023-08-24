@@ -13,7 +13,7 @@ tags:
 
 This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed for Chapter 2**.
 
-Please note that this section will not go into too much detail as there are many courses out there describing the principles of research data management. At the end of this section links will be provided about where you can find further information.
+Please note that this section will not go into too much detail as there are many courses out there describing research data management. At the end of this section links will be provided about where to find further information.
 
 
 ---
@@ -22,7 +22,8 @@ Please note that this section will not go into too much detail as there are many
 ### Learning Objectives
 At the end of the section the learners can ...
 
-- **Describe** the basic principles of research data management
+- **Demonstrate** the importance of research data management
+- **Differenciate** efficient from inefficient research data management
 - **Explain** the FAIR principles
 - **Explain** the difference between a PID and an URL
 
@@ -43,11 +44,11 @@ At the end of the section the learners can ...
 ---
 
 
-## Learning Content Topic
+## Research data management (RDM)
 
 ### What is Research Data?
 
->The content in this section is adapted from the [DFG Guidelines on the Handling of Research Data](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf.).
+>The content in this section is adapted from the [DFG Guidelines on the Handling of Research Data](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
 
 <span style="background:rgba(160, 204, 246, 0.55)">"Research data is an essential foundation for scientific work. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work. Methodical forms of testing such as questionnaires, software and simulations may also produce important results for scientific research and should therefore also be categorised as research data."</span>
 
@@ -148,7 +149,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 **Digital Object Identifiers (DOI):**
 
-- The Digital Object Identifier (DOI) is a persistent identifier to uniquely and permanently identify physical, digital and abstract objects following international standards. DOIs enable the sustainable linking and traceability of digital objects in the world wide web, even if the URL changes.
+- The Digital Object Identifier (DOI) is a **persistent identifier to uniquely and permanently identify physical, digital and abstract objects** following international standards. DOIs enable the sustainable linking and traceability of digital objects in the world wide web, even if the URL changes.
 - DOIs are primarily used for scientific, professional and regulatory publications. The metadata of the publications are directly linked to the individual identifier. Both factors significantly increase the findability and visibility of research output.
 - Example: [https://doi.org/10.5281/zenodo.8178870](https://doi.org/10.5281/zenodo.8178870)
 
@@ -156,7 +157,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 **Open Researcher and Contributor iD (ORCID):**
 
-- The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with scholars and researchers worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
+- The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
 - Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
 
 #### Exercise 1.3
