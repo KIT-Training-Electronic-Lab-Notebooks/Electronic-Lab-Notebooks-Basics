@@ -1,12 +1,12 @@
 ---
-title: "1.1 Electronic Lab Notebooks"
+title: "Electronic Lab Notebooks"
 author: 
     - Carolin Leister
 tags: 
     - Electronic Lab Notebooks
 ---
 
-# Unit Lesson Plan Template
+# Unit Lesson Plan
 
 ## Electronic Lab Notebooks
 
@@ -17,6 +17,7 @@ Aim/Goal of unit
 - if physical any special room type should be noted (e.g. classroom, IT lab, ...)
 
 ### Total duration
+- 1.5 hours
 
 ### Number of attendees
 - important to know the max group size

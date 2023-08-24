@@ -6,7 +6,7 @@ tags:
     - Electronic Lab Notebooks
 ---
 
-# Unit Lesson Plan Template
+# Unit Lesson Plan
 
 ## Electronic Lab Notebooks
 
@@ -55,55 +55,3 @@ Note: If the training is relying heavily on presentations then another option fo
 
 ### Comments
 - any additional comments from external parties acting as co-creators
-
-# How to start
-
-How do I start with my own material? Use the [TtT FAIR-by-Design Methodology](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/) for that.
-
-1. **PREPARE:** Start with the **Backward instructional design process** described in [Ideating](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%201%20%E2%80%93%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont/).
-	1. Purpose
-	2. Target Audience
-	3. Prerequisites
-	4. Overall Scope of the learning materials
-	5. Learning Objectives
-2. **DISCOVER:** Look for already exisiting materials 
-3. **DESIGN:**
-	1. Concept and Structure
-		1. Think about your [Content concept map](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/04-Conceptualisation/04-Conceptualisation/#content-concept-map)
-		2. Write your [Syllabus](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/04-Conceptualisation/04-Conceptualisation/#syllabus) (higher level: course) (`syllabus.md`)
-		3. Think about your [hierarchical structure](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/05-Hierarchical%20Structure/05-HierarchicalStructure/#learning-structure) (go down to the units, with no more than 4 learning objectives) (Name of your folder e.g. `Learning Unit Template`)
-	2. [Licensing and Attribution](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/05-Hierarchical%20Structure/05-HierarchicalStructure/#licensing-and-attribution)
-	3. [Develop your learning unit](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment/) (`Learning Unit Template`)
-		1. [Learning unit plan](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment/#learning-unit-plan) (`template_unit_lesson_plan.md`)
-		2. [Learning content](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment/#learning-content) (`template_content.md`, `Learning_unit_content.pptx`)
-		3. [Activity](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment/#activity-details) (`Activities` --> `activity_details_template.md`)
-		4. [Assessment](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment/#assessment) (`Assessment` --> `assessment_template.md`)
-	4. [Instructional design and facilitation](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%203%20%E2%80%93%20Design/07-Facilitation/07-Facilitation/)(`template_facilitator_guide.md`)
-4. **PRODUCE**:
-	1. Produce your learning content by using the [FAIR-by-design Methodology e.g. with GitHub and Markdown](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git/)
-	2. Make the [accessibility check](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/17-Zenodo%20Publishing/17-Zenodo%20Publishing/)
-	3. Finalize your content
-		1. [Syllabus with metadata](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/12-Content%20Finalisation/12-Content_finalisation/#syllabus-and-machine-readable-metadata)(also check that all learning units have metadata) (`syllabus.md`)
-		2. [LICENSE file](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/12-Content%20Finalisation/12-Content_finalisation/#updating-the-license) (`LICENCE`)
-		3. [Facilitation guide](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/12-Content%20Finalisation/12-Content_finalisation/#defining-the-facilitation-guide) (`template_facilitator_guide.md`)
-		4. Feedback form (if not for Skills4EOSC) (`Feedback` --> `training_feedback_template.md`)
-	4. [Internal QA-Check](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%204%20%E2%80%93%20Produce/13-Internal%20QA/13-Internal_QA/)
-5. **PUBLISH:**
-	1. [CITATION.cff](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/#filling-out-citationcff) (`CITATION.cff`)
-	2. [README.md](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/#filling-out-readmemd) (`README.md`)
-	3. [CODE_OF_CONDUCT.md](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations/#filling-out-code_of_conductmd) (`CODE_OF_CONDUCT.md`)
-	4. Final step: Publish your content on [Zenodo](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%205%20%E2%80%93%20Publish/17-Zenodo%20Publishing/17-Zenodo%20Publishing/)
-6. **VERIFY:**
-	1. [QA](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/)
-	2. Collect feedback and from that [improve your content](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/20-Continuous%20Improvement/20-CI/), don't forget about versioning
-
-# Notes
-
-## References and BibTex
-
-- The Git book software that we are using is called MkDocs. MkDocs has support for various plugins, one of which is the Bibtex citation plugin which can be enabled by editing the mkdocs.yml file and adding it in the list of enabled plugins (have a look at line 17 in this file [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L17](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L17)).
-- Once enabled, you can specify the file name where you will store all of the Bibtex references (line 18, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L18](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L18)). It should be ensured that correct Bibtex syntax is used across all entries (e.g., no extra commas), otherwise the Git publishing process will fail.
-- For the footnotes to actually appear on the page, the “footnotes” markdown extension needs to be enabled as well (line 13, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L13](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L13))
-- The Bibtex plugin is basically a separate software which in order to be enabled needs to be installed as well. So, for the Bibtex plugin to be able to automatically generate the references in the text, the environment where the Git book workflow runs needs to have the necessary software installed. We can control what software is installed in that environment using the “requirements.txt” file. As a result this file needs to be edited as well, and a new entry, “mkdocs-bibtex==2.11.0” needs to be placed there (line 4, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/requirements.txt#L4](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/requirements.txt#L4)).
-- After all of these steps are completed, you can start using the plugin in your Markdown files. To reference a Bibtex entry, the [@bibtex_entry_name] syntax can be used. Have a look at these two examples: [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/resources/1%20-%20Introduction/10-intro.md?plain=1#L10](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/resources/1%20-%20Introduction/10-intro.md?plain=1#L10) and [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/refs.bib#L1205](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/refs.bib#L1205).
-- The plugin is configurable, and supports multiple configuration options, if interested, you can read its documentation here: [https://pypi.org/project/mkdocs-bibtex/](https://pypi.org/project/mkdocs-bibtex/)
