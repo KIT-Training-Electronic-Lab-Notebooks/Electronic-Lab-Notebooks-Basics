@@ -46,6 +46,8 @@ expertiseLevel: "beginner"
 ## Target audience:
 - Students
 - PhD Students
+- Post docs
+- Laboratory staff
 ## Expertise Level / Skill Level:
 - Beginner
 
