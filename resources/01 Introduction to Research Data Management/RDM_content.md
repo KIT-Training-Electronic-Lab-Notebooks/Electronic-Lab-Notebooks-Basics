@@ -50,7 +50,19 @@ At the end of the section the learners can ...
 
 <span style="background:rgba(160, 204, 246, 0.55)">"Research data is an essential foundation for scientific work. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work. Methodical forms of testing such as questionnaires, software and simulations may also produce important results for scientific research and should therefore also be categorised as research data."</span>
 
+### Research data management
+
+[Research data cycle ](https://www.rdm.kit.edu/english/researchdata_cycle.php)
+
+![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png)
+### Why research data management?
+
+"More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." (Baker 2016)
+
+"More than half pointed to insufficient replication in the lab" (Baker 2016)
 ### Good Research Practise
+
+Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
 
 ### FAIR
 
@@ -77,4 +89,6 @@ At the end provide a short summary of the main points of the learning unit (thes
 ## Suggested Reading
 - Deutsche Forschungsgemeinschaft (DFG) (2015): DFG Guidelines on the Handling of Research Data. [https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
 - Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601).
+- Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
+- Perkel (2023): How to make your scientific data accessible, discoverable and useful. Nature 618 (7967), 1098–1099. [https://doi.org/10.1038/d41586-023-01929-7](https://doi.org/10.1038/d41586-023-01929-7).
 
