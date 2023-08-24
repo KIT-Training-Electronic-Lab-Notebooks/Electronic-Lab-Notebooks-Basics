@@ -52,9 +52,10 @@ At the end of the section the learners can ...
 
 ### Research data management
 
-[Research data cycle ](https://www.rdm.kit.edu/english/researchdata_cycle.php)
 
-![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png)
+![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png) {: style="height:150px;"}
+
+> [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the CC BY SA 4.0 license
 ### Why research data management?
 
 "More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." (Baker 2016)
