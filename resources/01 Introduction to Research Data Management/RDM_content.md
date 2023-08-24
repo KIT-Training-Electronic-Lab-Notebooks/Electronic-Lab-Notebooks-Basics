@@ -55,23 +55,33 @@ At the end of the section the learners can ...
 
 ![Research Data Life Cycle|300](attachments/FDM-Zyklus_CC.png){: style="height:150px;"}
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
+
+More information regarding **research data management at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
 ### Why research data management?
 
-"More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." (Baker 2016)
+„Is there a reproducibility crisis?“
 
-"More than half pointed to insufficient replication in the lab" (Baker 2016)
+"More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." ([Baker 2016](https://doi.org/10.1038/533452a))
+
+"More than half pointed to insufficient replication in the lab" ([Baker 2016](https://doi.org/10.1038/533452a))
 ### Good Research Practise
 
-Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
+“Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
+
+More information regarding **good research practise at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
+
+- Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. DOI: [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601)..
+- Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). Online: [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
+- Overview policies https://www.rdm.kit.edu/english/researchdata_policies.php
 
 ### FAIR principles
 
 According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles."
 
-An overview can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
+An overview on these principles can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
 
 ![FAIR Data Principles](attachments/02_open_research_data_material.png)
-> FAIR Data Principles from the [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
+> [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
 
 - Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. https://doi.org/10.1038/sdata.2016.18.
@@ -93,7 +103,7 @@ In order for research data to remain comprehensible, consistent and interoperabl
 For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x).
 ## Summary
 
-At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)
+==At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)==
 
 ## Further information on RDM
 
@@ -114,4 +124,3 @@ At the end provide a short summary of the main points of the learning unit (thes
 - Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
 - Perkel (2023): How to make your scientific data accessible, discoverable and useful. Nature 618 (7967), 1098–1099. [https://doi.org/10.1038/d41586-023-01929-7](https://doi.org/10.1038/d41586-023-01929-7).
 - Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3, S. 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
-
