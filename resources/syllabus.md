@@ -26,7 +26,7 @@ expertiseLevel: "beginner"
 ---
 
 # Electronic Lab Notebooks - From data acquisition to paper publication
-# Type (Course/Workshop/Webinar)
+# Type: Webinar
 
 ## Date/Time
 - November 15, 2023 / 9:30-11:00 CEST (German)
@@ -58,7 +58,7 @@ expertiseLevel: "beginner"
 - N
 
 ## Prerequisites
-- if any write here
+- No prior knowledge is required to follow the training.
 
 ## Duration
 - 1.5 hours
@@ -101,7 +101,7 @@ expertiseLevel: "beginner"
 
 ## Contact information
 
-- Carolin Leister: carolin.leister@kit.edu
+- For more information regarding the training please contact Carolin Leister: carolin.leister@kit.edu
 
 ## License
 
