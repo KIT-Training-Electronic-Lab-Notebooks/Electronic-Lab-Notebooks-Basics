@@ -1,5 +1,3 @@
-![](./resources/attachments/header.png)
-
 Materials can be found on [GitHub](https://github.com/FAIR-by-Design-Demo-CL/My-Training-Demo), as well as in an [GitBook](https://fair-by-design-demo-cl.github.io/My-Training-Demo/).
 ## FAIR-by-Design Methodology
 
