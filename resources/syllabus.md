@@ -29,13 +29,13 @@ expertiseLevel: "beginner"
 # Type (Course/Workshop/Webinar)
 
 ## Date/Time
-- put available from date if it is self-paced
+- November 15, 2023 / 9:30-11:00 CEST (German)
+- November 22, 2023 / 9:30-11:00 CEST (English)
 
 ## Location
 
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- online
+- Registration needed, for the [german seminar](https://www.bibliothek.kit.edu/veranstaltungskalender.php/register/50802#calendar_top) and the [english seminar](https://www.bibliothek.kit.edu/veranstaltungskalender.php/register/50803#calendar_top).
 
 ## Training Description
 
@@ -91,7 +91,7 @@ expertiseLevel: "beginner"
 
 ## Certification Information
 
-- if any
+- none
 
 ## Author(s)
 - Carolin Leister
@@ -101,7 +101,7 @@ expertiseLevel: "beginner"
 
 ## Contact information
 
-- how to reach out to training organizers
+- Carolin Leister: carolin.leister@kit.edu
 
 ## License
 
