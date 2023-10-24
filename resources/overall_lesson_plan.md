@@ -1,9 +1,8 @@
 ---
-title: "Electronic Lab Notebooks"
-author: 
-    - Carolin Leister
-tags: 
-    - Electronic Lab Notebooks
+title: Electronic Lab Notebooks
+author: Carolin Leister
+tags:
+  - Electronic Lab Notebooks
 ---
 
 # Unit Lesson Plan
@@ -97,14 +96,3 @@ How do I start with my own material? Use the [TtT FAIR-by-Design Methodology](ht
 6. **VERIFY:**
 	1. [QA](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/)
 	2. Collect feedback and from that [improve your content](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/20-Continuous%20Improvement/20-CI/), don't forget about versioning
-
-# Notes
-
-## References and BibTex
-
-- The Git book software that we are using is called MkDocs. MkDocs has support for various plugins, one of which is the Bibtex citation plugin which can be enabled by editing the mkdocs.yml file and adding it in the list of enabled plugins (have a look at line 17 in this file [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L17](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L17)).
-- Once enabled, you can specify the file name where you will store all of the Bibtex references (line 18, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L18](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L18)). It should be ensured that correct Bibtex syntax is used across all entries (e.g., no extra commas), otherwise the Git publishing process will fail.
-- For the footnotes to actually appear on the page, the “footnotes” markdown extension needs to be enabled as well (line 13, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L13](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/mkdocs.yml#L13))
-- The Bibtex plugin is basically a separate software which in order to be enabled needs to be installed as well. So, for the Bibtex plugin to be able to automatically generate the references in the text, the environment where the Git book workflow runs needs to have the necessary software installed. We can control what software is installed in that environment using the “requirements.txt” file. As a result this file needs to be edited as well, and a new entry, “mkdocs-bibtex==2.11.0” needs to be placed there (line 4, [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/requirements.txt#L4](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/requirements.txt#L4)).
-- After all of these steps are completed, you can start using the plugin in your Markdown files. To reference a Bibtex entry, the [@bibtex_entry_name] syntax can be used. Have a look at these two examples: [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/resources/1%20-%20Introduction/10-intro.md?plain=1#L10](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/resources/1%20-%20Introduction/10-intro.md?plain=1#L10) and [https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/refs.bib#L1205](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_Book/blob/main/refs.bib#L1205).
-- The plugin is configurable, and supports multiple configuration options, if interested, you can read its documentation here: [https://pypi.org/project/mkdocs-bibtex/](https://pypi.org/project/mkdocs-bibtex/)
