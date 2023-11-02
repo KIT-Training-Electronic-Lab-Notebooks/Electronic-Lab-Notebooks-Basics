@@ -1,12 +1,18 @@
 ---
-title: "1.1 Introduction to Research Data Management"
-author: 
-    - Carolin Leister
-tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - Research Data Management (RDM)
-    - FAIR
+title: 1.1 Introduction to Research Data Management
+author: Carolin Leister
+tags:
+  - FAIR-by-Design
+  - Learning
+  - Materials
+  - FAIR
+  - Learning
+  - Objects
+  - Research
+  - Data
+  - Management
+  - FAIR
+  - RDM
 ---
 
 # 1.1 Introduction to Research Data Management
@@ -59,6 +65,8 @@ At the end of the section the learners can ...
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 
 More information regarding **research data management at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
+Guidelines: Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf).
+(German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
 ### Why research data management?
 
 „Is there a reproducibility crisis?“
