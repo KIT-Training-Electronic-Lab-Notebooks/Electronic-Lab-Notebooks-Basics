@@ -89,7 +89,7 @@ Guidelines: Have a look at the [Guidelines for Responsible and Substainable Rese
 
 “Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
 
-More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
+<span style="background:rgba(0, 150, 130)">@KIT: </span>More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
 **English version:**
 
