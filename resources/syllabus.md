@@ -26,8 +26,8 @@ expertiseLevel: beginner
 # Type: Webinar
 
 ## Date/Time
-- November 15, 2023 / 9:30-11:00 am CEST (German)
-- November 22, 2023 / 9:30-11:00 am CEST (English)
+- November 15, 2023 / 9:30-11:00 am CET (German)
+- November 22, 2023 / 9:30-11:00 am CET (English)
 
 ## Location
 - online
