@@ -58,10 +58,7 @@ At the end of the section the learners can ...
 
 <span style="background:rgba(160, 204, 246, 0.55)">"Research data is an essential foundation for scientific work. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work. Methodical forms of testing such as questionnaires, software and simulations may also produce important results for scientific research and should therefore also be categorised as research data."</span>
 
-### Research data life cycle
-
-
-![Research Data Life Cycle|300](attachments/FDM-Zyklus_CC.png){: style="height:150px;"}
+![Research Data Life Cycle|150](attachments/FDM-Zyklus_CC.png)
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **research data management at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
@@ -69,7 +66,7 @@ At the end of the section the learners can ...
 **<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
 ### Why research data management?
 
-„Is there a reproducibility crisis?“
+[Baker 2016](https://doi.org/10.1038/533452a) asks: „Is there a reproducibility crisis?“
 
 "More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." ([Baker 2016](https://doi.org/10.1038/533452a))
 
@@ -77,7 +74,7 @@ At the end of the section the learners can ...
 
 #### Exercise 1.1
 
-**Question:** What are the advantages of research data management? What are the advantages of good structure?
+**Question:** What can help researchers to reproduce experiments? What are the advantages of research data management? 
 ### Good Research Practice
 
 - Research data must be well documented
@@ -124,11 +121,18 @@ Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institu
 
 According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles."
 
-An overview on these principles can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
+An overview and a description of these principles can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
 
 ![FAIR Data Principles](attachments/02_open_research_data_material.png)
 > [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
+> The content in this section is adapted from [GOFAIR](https://www.go-fair.org/fair-principles/) licensed under CC-BY 4.0.
+
+**What does FAIR mean?**
+- **Findable**: The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the [FAIRification process](https://www.go-fair.org/fair-principles/fairification-process/).
+- **Accessible**: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
+- **Interoperable**: The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
+- **Reusable**: The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
 
 - Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 - [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
