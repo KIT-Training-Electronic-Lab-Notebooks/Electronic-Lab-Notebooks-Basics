@@ -2,17 +2,10 @@
 title: 1.1 Introduction to Research Data Management
 author: Carolin Leister
 tags:
-  - FAIR-by-Design
-  - Learning
-  - Materials
-  - FAIR
-  - Learning
-  - Objects
-  - Research
-  - Data
-  - Management
+  - Research Data Management
   - FAIR
   - RDM
+  - Good Research Practice
 ---
 
 # 1.1 Introduction to Research Data Management
