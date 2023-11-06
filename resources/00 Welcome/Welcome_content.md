@@ -2,9 +2,6 @@
 title: 00 Welcome
 author: Carolin Leister
 tags:
-  - FAIR
-  - Learning
-  - Objects
   - Welcome
 ---
 
