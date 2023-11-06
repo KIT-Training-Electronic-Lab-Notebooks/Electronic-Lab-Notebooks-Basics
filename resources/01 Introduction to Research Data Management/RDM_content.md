@@ -6,6 +6,9 @@ tags:
   - FAIR
   - RDM
   - Good Research Practice
+  - Persistent Identifiers
+  - DOI
+  - ORCID
 ---
 
 # 1.1 Introduction to Research Data Management
