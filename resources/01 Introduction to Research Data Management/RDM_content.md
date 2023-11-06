@@ -184,20 +184,22 @@ For more information on describing research data using the DataCite metadata sch
 
 <span style="background:rgba(205, 244, 105, 0.55)">At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)</span>
 
-## Further information on RDM
+## References
+### Further information on RDM
 
 - [Research Data Management at KIT RDM@KIT](https://www.rdm.kit.edu/english/index.php)
 - [forschungsdaten.info](https://forschungsdaten.info/) (DE)
 - [German National Research Data Infrastructure (NFDI)](https://www.nfdi.de/?lang=en)
 
-## Tutorials on RDM
+### Tutorials on RDM
 
+- [Current trainings on RDM from RDM@KIT](https://www.bibliothek.kit.edu/english/calendar-events.php?freetext=FODI-all) (EN and DE)
 - [OpenCourse at KIT](https://opencourses.kit.edu/goto.php?target=crs_1206&client_id=opencourses)
 - [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/) (EN and DE)
 - [forschungsdaten.info - calender](https://forschungsdaten.info/kalender-index/) (DE)
 - [Helmholtz Information & Data Science Academy (HiDA)](https://www.helmholtz-hida.de/course-catalog/en/)
 
-## Suggested Reading
+### Suggested Reading
 - Deutsche Forschungsgemeinschaft (DFG) (2015): DFG Guidelines on the Handling of Research Data. [https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
 - Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601).
 - Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
