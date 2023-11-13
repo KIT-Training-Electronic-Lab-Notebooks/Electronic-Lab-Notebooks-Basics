@@ -57,10 +57,7 @@ At the end of the section the learners can ...
 ![Research Data Life Cycle|150](attachments/FDM-Zyklus_CC.png)
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 
-**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **research data management at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
-
-**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
-### Why research data management?
+### Why should I manage research data?
 
 [Baker 2016](https://doi.org/10.1038/533452a) asks: „Is there a reproducibility crisis?“
 
@@ -68,6 +65,9 @@ At the end of the section the learners can ...
 
 "More than half pointed to insufficient replication in the lab" ([Baker 2016](https://doi.org/10.1038/533452a))
 
+**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **research data management (RDM) at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
+
+**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
 #### Exercise 1.1
 
 **Question:** What can help researchers to reproduce experiments? What are the advantages of research data management? 
@@ -185,7 +185,11 @@ In order for research data to remain comprehensible, consistent and interoperabl
 For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x).
 ## Summary
 
-<span style="background:rgba(205, 244, 105, 0.55)">At the end provide a short summary of the main points of the learning unit (these are the key takeaways that help reflect on the learning outcomes)</span>
+> The content in this section is adapted from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm.php).
+
+Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
+
+In the following section you will learn, how to document your research data.
 
 ## References
 ### Further information on RDM
