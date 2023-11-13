@@ -1,4 +1,4 @@
-Materials can be found on [GitHub](https://github.com/FAIR-by-Design-Demo-CL/My-Training-Demo), as well as in an [GitBook](https://fair-by-design-demo-cl.github.io/My-Training-Demo/).
+Materials can be found on [GitHub](https://github.com/FAIR-by-Design-Demo-CL/My-Training-Demo), as well as in a [GitBook](https://fair-by-design-demo-cl.github.io/My-Training-Demo/).
 ## FAIR-by-Design Methodology
 
 This material is based on the FAIR-by-Design Methodology of the Skills4EOSC project.
