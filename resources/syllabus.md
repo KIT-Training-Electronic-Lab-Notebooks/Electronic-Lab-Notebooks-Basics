@@ -77,17 +77,17 @@ Laboratory notebooks play an important role in **planning, conducting and analys
 | Date/Time | Topic             |
 |-----------|-------------------|
 | 9:00  | Check-in   |
-| 9:05  | Welcome   |
-| 9:15  | Introduction      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| 9:05  | Welcome (Section 0)   |
+| 9:15  | Introduction to Research Data Management (Section 1)     |
+| 9:45  | Introduction to Electronic Lab Notebooks (Section 2.1)     |
+| 10:15  | Chemotion (Section 2.2)  |
+| 10:30  | Kadi4Mat (Section 2.3)      |
+| 10:45  | Evaluation of the training   |
+| 11:00  | End   |
 
 ## Resources and Materials
 
-- location of available resources for the training
-
+==- tba==
 ## Certification Information
 - none
 
@@ -110,10 +110,10 @@ Laboratory notebooks play an important role in **planning, conducting and analys
 
 ## Accessibility Mission
 
-Skills4EOSC is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).
+MoMaF is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).
 
 ### Acknowledgement
 
-These learning materials have been developed by following the [FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540).
+These learning materials have been developed by following the [Skills4EOSC FAIR-by-Design Methodology](https://doi.org/10.5281/zenodo.7875540) and are part of the [Science Data Center for Molecular Materials Research (MoMaF)](https://momaf.scc.kit.edu/).
 
-![Skills4EOSC logo](./attachments/skills4eosc.png)
+![](attachments/momaf_logo.svg)
