@@ -22,7 +22,7 @@ accessCost: N
 expertiseLevel: beginner
 ---
 
-# Electronic Lab Notebooks - From data acquisition to publication
+# Electronic Lab Notebooks - Support from data acquisition to publication
 # Type: Webinar
 
 ## Date/Time
