@@ -19,7 +19,7 @@ Then we will dive into the topic of **Electronic Lab Notebooks**. We start with 
 - Go to [menti.com](https://www.menti.com/al7833thwbop)
 - Let us know: Who are you and what is your field of expertise?
 
-#### Exercise 0.2
+#### Exercise 0.2 + 0.3
 - Go to [menti.com](https://www.menti.com/al7833thwbop)
-- Tell us: Have you ever used an Electronic Lab Notebook? If yes, which one?
+- Tell us: Have you ever used an Lab Notebook? And have you ever used an Electronic Lab Notebook? If yes, which one?
 
