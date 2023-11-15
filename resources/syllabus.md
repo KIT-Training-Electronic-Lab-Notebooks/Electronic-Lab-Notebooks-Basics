@@ -65,7 +65,13 @@ Laboratory notebooks play an important role in **planning, conducting and analys
 - 1.5 hours
 
 ## Training objectives
-- list of specific training objectives
+At the end of the training the learners can ...
+
+- **Describe** what an electronic lab notebook is
+- **Give examples** of electronic lab notebook
+- **Explain** advantages of an electronic lab notebook
+- **Compare** different Electronic Lab Notebooks (e.g. Chemotion and Kadi4Mat)
+- **Select** a electronic lab notebook that fits their needs
 
 ## Keywords
  - Electronic Lab Notebooks
@@ -76,13 +82,14 @@ Laboratory notebooks play an important role in **planning, conducting and analys
 
 | Date/Time | Topic             |
 |-----------|-------------------|
-| 9:00  | Check-in   |
-| 9:05  | Welcome (Section 0)   |
-| 9:15  | Introduction to Research Data Management (Section 1)     |
-| 9:45  | Introduction to Electronic Lab Notebooks (Section 2.1)     |
+| 9:30  | Check-in   |
+| 9:35  | Welcome (Section 0)   |
+| 9:40  | Introduction to Research Data Management (Section 1)     |
+| 9:55  | Introduction to Electronic Lab Notebooks (Section 2.1)     |
 | 10:15  | Chemotion (Section 2.2)  |
 | 10:30  | Kadi4Mat (Section 2.3)      |
-| 10:45  | Evaluation of the training   |
+| 10:45  | Conclusion and further questions   |
+| 10:55  | Evaluation of the training   |
 | 11:00  | End   |
 
 ## Resources and Materials
