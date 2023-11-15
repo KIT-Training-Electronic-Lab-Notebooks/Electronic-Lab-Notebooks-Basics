@@ -96,3 +96,11 @@ How do I start with my own material? Use the [TtT FAIR-by-Design Methodology](ht
 6. **VERIFY:**
 	1. [QA](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/19-Final%20QA%20check/19-finalQA/)
 	2. Collect feedback and from that [improve your content](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/Stage%206%20%E2%80%93%20Verify/20-Continuous%20Improvement/20-CI/), don't forget about versioning
+
+## Links for the session
+These links are good to prepare them before the training in e.g. Editor
+
+- DFG: https://doi.org/10.5281/zenodo.6472827
+- ELN Finder: https://eln-finder.ulb.tu-darmstadt.de/home
+- Chemotion: https://www.chemotion.net/
+- Kadi4Mat: https://kadi.iam.kit.edu/
