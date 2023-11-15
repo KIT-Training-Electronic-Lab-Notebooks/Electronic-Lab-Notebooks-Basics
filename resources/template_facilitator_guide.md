@@ -27,3 +27,11 @@ Information that should be included:
     - room layout and any other specifics (e.g. name tags, sign-in sheet, etc.)
     - in case of an online training this includes preparation of the virtual room, providing access, sending out or publishing reading materials, etc.
 - specific details and notes should be available in the unit lesson plan
+
+## Links for the session
+These links are good to prepare them before the training in e.g. Editor
+
+- DFG: https://doi.org/10.5281/zenodo.6472827
+- ELN Finder: https://eln-finder.ulb.tu-darmstadt.de/home
+- Chemotion: https://www.chemotion.net/
+- Kadi4Mat: https://kadi.iam.kit.edu/
