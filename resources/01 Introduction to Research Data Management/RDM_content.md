@@ -70,7 +70,7 @@ At the end of the section the learners can ...
 
 #### Exercise 1.1
 
-**Question:** What can help researchers to reproduce experiments? What are the advantages of research data management? (Go to [menti.com](https://www.menti.com/al7833thwbop))
+**Question:** What can help researchers to reproduce experiments? What are the advantages of research data management?
 ### Good Research Practice
 
 - Research data must be well documented
@@ -111,9 +111,7 @@ Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institu
 - Article 12: Archiving
 - Article 13: Scientific Publication and Providing Public Access to Research Results
 
-**Question:** What influence does this policy have on your daily work? How does it affect your research? (Go to [menti.com](https://www.menti.com/al7833thwbop))
-
-Question: How do you document your research (data)? (Go to [menti.com](https://www.menti.com/al7833thwbop))
+**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
 ### FAIR principles
 
