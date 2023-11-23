@@ -94,8 +94,9 @@ At the end of the training the learners can ...
 | 11:00  | End   |
 
 ## Resources and Materials
-
-==- tba==
+- [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/)
+- [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics)
+- As well as the publication, that will be added later.
 ## Certification Information
 - none
 
