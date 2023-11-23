@@ -29,7 +29,7 @@ Information that should be included:
 - specific details and notes should be available in the unit lesson plan
 
 ## Links for the session
-These links are good to prepare them before the training in e.g. Editor:
+These links are good to prepare them before the training in e.g. Editor
 
 - DFG: https://doi.org/10.5281/zenodo.6472827
 - ELN Finder: https://eln-finder.ulb.tu-darmstadt.de/home
