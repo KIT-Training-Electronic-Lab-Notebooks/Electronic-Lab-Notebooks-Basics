@@ -36,7 +36,7 @@ At the end of the section the learners can ...
 - 15 minutes
 
 ### Prerequisites
-- Complete [00 Welcome](../00%20Welcome/Welcome_content.md)
+- Complete [00 Welcome](../00%20Welcome/0_Welcome.md)
 
 ### Learning Tools
 
