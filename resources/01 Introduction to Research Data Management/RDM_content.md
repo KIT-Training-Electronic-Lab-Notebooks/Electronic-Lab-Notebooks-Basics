@@ -33,7 +33,7 @@ At the end of the section the learners can ...
 - attendees of this course
 
 ### Duration
-- time needed to learn the provided content
+- 15 minutes
 
 ### Prerequisites
 - Complete [00 Welcome](../00%20Welcome/Welcome_content.md)
