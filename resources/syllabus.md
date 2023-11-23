@@ -5,6 +5,7 @@ tags:
   - Electronic Lab Notebooks
   - Chemotion
   - Kadi4Mat
+  - ELN Finder
 abstract: A brief synopsis about or description of the learning resource.
 primaryLanguage: en
 license: A license document that applies to this content, typically indicated by URL
