@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Template Repository
+site_name: Electronic Lab Notebooks
 docs_dir: resources
 theme:
   name: material
