@@ -46,7 +46,7 @@ At the end of the section the learners can ...
 ---
 
 
-## Research data management (RDM)
+## Learning Content Topic
 
 ### What is Research Data?
 
