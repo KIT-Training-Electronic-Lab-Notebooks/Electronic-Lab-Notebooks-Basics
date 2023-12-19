@@ -1,3 +1,5 @@
+# Electronic Lab Notebooks - Support from data acquisition to publication
+
 Welcome to the learning material on "**Electronic Lab Notebooks - Support from data acquisition to publication**".
 
 Materials can be found on [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics), as well as in a related [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/).
