@@ -1,24 +1,28 @@
 ---
-title: Electronic Lab Notebooks
+title: Electronic Lab Notebooks - Support from data acquisition to publication
 author: Carolin Leister
 tags:
-  - Electronic Lab Notebooks
+  - Electronic
+  - Lab
+  - Notebooks
   - Chemotion
   - Kadi4Mat
-  - ELN Finder
-abstract: A brief synopsis about or description of the learning resource.
+  - ELN
+  - Finder
+abstract: Laboratory notebooks play an important role in planning, conducting and analysing scientific experiments. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These Electronic Lab Notebooks (ELNs) have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.
 primaryLanguage: en
-license: A license document that applies to this content, typically indicated by URL
-versionDate: YYYY-MM-DD Version date for the most recently published or broadcast resource.
+license: https://creativecommons.org/licenses/by/4.0/
+versionDate: 2023-12-19
 urlToResource: https://doi.org/10.5072/zenodo.1234567
 resourceURLType: URL
-targetGroup: Principle users(s) for which the resource was designed.
-learningResourceType: The predominant type or kind that characterizes the learning resource.
+targetGroup: "Students; PhD Students; Post docs; Laboratory staff"
+learningResourceType: Webinar
 learningOutcome:
-  - Descriptions of what knowledge,
-  - skills or
-  - abilities
-  - students should acquire on completion of the resource.
+  - Describe what an electronic lab notebook is
+  - Give examples of electronic lab notebook
+  - Explain advantages of an electronic lab notebook
+  - Compare different Electronic Lab Notebooks (e.g. Chemotion and Kadi4Mat)
+  - Select a electronic lab notebook that fits their needs
 accessCost: N
 expertiseLevel: beginner
 ---
@@ -94,8 +98,9 @@ At the end of the training the learners can ...
 | 11:00  | End   |
 
 ## Resources and Materials
-
-==- tba==
+- [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/)
+- [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics)
+- As well as the publication, that will be added later.
 ## Certification Information
 - none
 
