@@ -1,20 +1,30 @@
 cff-version: 1.2.0
-message: 'If you use these materials, please cite it as below.'
+message: If you use these materials, please cite it as below.
 authors:
   - family-names: Leister
     given-names: Carolin
     orcid: https://orcid.org/0000-0002-6940-0024
     affiliation: KIT
-title: "Electronic Lab Notebooks - Support from data acquisition to publication"
-abstract: "Laboratory notebooks play an important role in planning, conducting and analysing scientific experiments. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These Electronic Lab Notebooks (ELNs) have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing."
+title: Electronic Lab Notebooks - Support from data acquisition to publication
+abstract: >-
+  Laboratory notebooks play an important role in planning, conducting and
+  analysing scientific experiments. Due to digitalisation, electronic versions
+  of the classic laboratory notebooks are becoming more and more common. These
+  Electronic Lab Notebooks (ELNs) have the advantage that they can be connected
+  directly to measuring devices, analysis programs or storage systems, making
+  results easier to understand and research more efficient. In this module you
+  will learn the basics of ELNs, we will support you in selecting the right ELN
+  for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for
+  self-testing.
 version: 1.0.0
-doi: 10.5070/zenodo.123
-date-released: "2023-12-20"
+doi: 10.5281/zenodo.10410543
+date-released: '2023-12-20'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "Electronic Lab Notebooks"
-  - "Chemotion"
-  - "Kadi4Mat"
-  - "ELN Finder"
-repository: "https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics"
+  - Electronic Lab Notebooks
+  - Chemotion
+  - Kadi4Mat
+  - ELN Finder
+repository: >-
+  https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics
