@@ -1,14 +1,13 @@
 ---
+# RDA learning materials metadata minimal set
 title: Electronic Lab Notebooks - Support from data acquisition to publication
-author: Carolin Leister
+author:
+    - Carolin Leister
 tags:
-  - Electronic
-  - Lab
-  - Notebooks
+  - Electronic Lab Notebooks
   - Chemotion
   - Kadi4Mat
-  - ELN
-  - Finder
+  - ELN Finder
 abstract: Laboratory notebooks play an important role in planning, conducting and analysing scientific experiments. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These Electronic Lab Notebooks (ELNs) have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.
 primaryLanguage: en
 license: https://creativecommons.org/licenses/by/4.0/
@@ -25,9 +24,17 @@ learningOutcome:
   - Select a electronic lab notebook that fits their needs
 accessCost: N
 expertiseLevel: beginner
+# template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
+template: signposting.html
+# hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
+hide:
+    - toc
 ---
 
 # Electronic Lab Notebooks - Support from data acquisition to publication
+
+{!RELEASE_NOTES.md!}
+
 # Type: Webinar
 
 ## Date/Time
@@ -101,6 +108,7 @@ At the end of the training the learners can ...
 - [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/)
 - [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics)
 - As well as the publication, that will be added later.
+
 ## Certification Information
 - none
 
