@@ -1,10 +1,11 @@
 ---
-title: "Training Facilitator Guide"
-author: "Skills4EOSC T2.3"
-tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - Facilitator Guide Template
+title: Training Facilitator Guide
+author: Carolin Leister
+tags:
+  - FAIR-by-Design Learning Materials
+  - FAIR Learning Objects
+  - Facilitator Guide
+
 ---
 
 # Training Facilitator Guide
