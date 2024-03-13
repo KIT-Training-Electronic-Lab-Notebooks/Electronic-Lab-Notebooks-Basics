@@ -8,6 +8,10 @@ theme:
   custom_dir: resources/overrides
   features:
     - navigation.footer
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - md_in_html
 plugins:
   - tags
   - mike:
@@ -54,3 +58,5 @@ citation:
     - Kadi4Mat
     - ELN Finder
   repository: "https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics"
+signposting:
+  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Demo-CL/My-Training-Demo/main/CITATION.cff
