@@ -100,7 +100,7 @@ At the end of the training the learners can ...
 ## Resources and Materials
 - [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/)
 - [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics)
-- As well as the publication, that will be added later.
+- [Zenodo Publication](https://doi.org/10.5281/zenodo.10410543)
 ## Certification Information
 - none
 
