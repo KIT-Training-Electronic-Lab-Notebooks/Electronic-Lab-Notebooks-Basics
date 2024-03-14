@@ -63,12 +63,7 @@ At the end of the section the learners can ...
 
 !!! info "@KIT"
 
-    More information regarding **research data management (RDM) at KIT** can be found at
-    the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
-
-**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **research data management (RDM) at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
-
-**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
+	Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
 ### Why should I manage research data?
 
 [Baker 2016](https://doi.org/10.1038/533452a) asks: „Is there a reproducibility crisis?“
