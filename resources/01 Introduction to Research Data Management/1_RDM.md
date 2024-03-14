@@ -58,7 +58,8 @@ At the end of the section the learners can ...
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
 
 !!! info "@KIT"
-More information regarding **research data management (RDM) at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
+	More information regarding **research data management (RDM) at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
+
 
 **<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **research data management (RDM) at KIT** can be found at the [website of the service team RDM@KIT](https://www.rdm.kit.edu/english/index.php).
 
