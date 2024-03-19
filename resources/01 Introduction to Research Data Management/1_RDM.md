@@ -86,7 +86,9 @@ At the end of the section the learners can ...
 
 “Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
 
-**<font color="#ffffff"><span style="background:rgba(0, 150, 130)">@KIT:</span></font>** More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
+!!! info "@KIT"
+	
+	More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
 **English version:**
 
