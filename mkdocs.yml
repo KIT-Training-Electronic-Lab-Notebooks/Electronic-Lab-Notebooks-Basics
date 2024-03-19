@@ -9,7 +9,7 @@ theme:
   features:
     - navigation.footer
     - content.tooltips
-    # - content.footnote.tooltips
+    - content.footnote.tooltips
 markdown_extensions:
   - markdown_include.include:
       base_path: .
