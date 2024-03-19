@@ -46,7 +46,7 @@ At the end of the section the learners can ...
 ---
 
 
-## Learning Content Topic
+## Introduction to Research Data Management
 
 ### What is Research Data?
 
