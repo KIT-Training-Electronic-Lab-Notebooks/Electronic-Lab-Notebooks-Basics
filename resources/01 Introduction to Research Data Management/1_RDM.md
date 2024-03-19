@@ -87,7 +87,7 @@ At the end of the section the learners can ...
 - Published research data must be reusable
 - Quality assurance, e.g. by keeping laboratory records
 
-"Researchers **document all information** relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed."
+"Researchers **document all information** relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed." [^3][^4] (DE: [^5][^6])
 
 “Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ [^3][^4] (DE: [^5][^6])
 
