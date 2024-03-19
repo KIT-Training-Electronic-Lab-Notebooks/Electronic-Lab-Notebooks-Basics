@@ -95,25 +95,29 @@ At the end of the section the learners can ...
 	
 	More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
-#### Exercise 1.2
+!!! example "Exercise 1.2a: DFG"
 
-Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
+	Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
-- Guideline 7: Cross-phase quality assurance
-- Guideline 12: Documentation
-- Guideline 13: Providing public access to research results
-- Guideline 17: Archiving
+	- Guideline 7: Cross-phase quality assurance
+	- Guideline 12: Documentation
+	- Guideline 13: Providing public access to research results
+	- Guideline 17: Archiving
+	
+	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
 OR
 
-Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
+!!! example "Exercise 1.2b: KIT"
 
-- Article 8: Cross-phase Quality Assurance and Research Design
-- Article 11: Documentation
-- Article 12: Archiving
-- Article 13: Scientific Publication and Providing Public Access to Research Results
+	Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
 
-**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
+	- Article 8: Cross-phase Quality Assurance and Research Design
+	- Article 11: Documentation
+	- Article 12: Archiving
+	- Article 13: Scientific Publication and Providing Public Access to Research Results
+
+	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
 ### FAIR principles
 
@@ -169,9 +173,9 @@ For the above reasons, the concept of the persistent identifier was developed, w
 - The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
 - Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
 
-#### Exercise 1.3
+!!! example "Exercise 1.3"
 
-**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update your account.
+	**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update your account.
 
 ### Metadata
 
