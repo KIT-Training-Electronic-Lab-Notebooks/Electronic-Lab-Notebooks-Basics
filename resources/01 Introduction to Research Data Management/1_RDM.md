@@ -176,7 +176,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 > The content in this section is adapted from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm_metadata.php).
 
-Metadata is **structured, machine-readable information about research data**, so-called "data about data". A classic example is bibliographic metadata such as author, title, year of publication, and publisher. They serve several functions: to ensure the **discoverability** of the data, to improve the **understandability** of the data, and to enable the **processing** and **reuse** of the data ([Putnings et al. 2021](https://www.degruyter.com/document/doi/10.1515/9783110657807/html), [Riley 2017](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)).
+Metadata is **structured, machine-readable information about research data**, so-called "data about data". A classic example is bibliographic metadata such as author, title, year of publication, and publisher. They serve several functions: to ensure the **discoverability** of the data, to improve the **understandability** of the data, and to enable the **processing** and **reuse** of the data[^8][^9].
 
 Metadata is stored in a structured way so that it can be read and processed by both humans and machines. Various data exchange formats have become established for this purpose, such as **XML** (eXtensible Markup Language) and **JSON** (JavaScript Object Notation).
 
@@ -222,3 +222,5 @@ In the following section you will learn, how to document your research data by u
 [^5]: Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827). (DE)
 [^6]: Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf). (DE)
 [^7]: Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3, S. 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+[^8]: Riley (2017): Understanding metadata: What is metadata, and what is it for. ISBN: 978-1-937522-72-8 Online: https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf
+[^9]: Putnings et al. (2021): Praxishandbuch Forschungsdatenmanagement. https://doi.org/10.1515/9783110657807 (DE)
