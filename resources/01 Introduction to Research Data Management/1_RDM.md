@@ -76,9 +76,10 @@ At the end of the section the learners can ...
 
 "More than half pointed to insufficient replication in the lab" [^2]
 
-#### Exercise 1.1
+!!! example "Exercise 1.1"
 
-**Question:** What can help researchers to reproduce experiments? What are the advantages of research data management?
+	**Question:** What can help researchers to reproduce experiments? What are the
+	advantages of research data management?
 ### Good Research Practice
 
 - Research data must be well documented
