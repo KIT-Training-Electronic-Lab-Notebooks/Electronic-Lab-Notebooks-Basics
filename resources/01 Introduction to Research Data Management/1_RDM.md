@@ -128,9 +128,12 @@ An overview and a description of these principles can be found at the [website o
 ![FAIR Data Principles](attachments/02_open_research_data_material.png)
 > [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
+
+
 > The content in this section is adapted from [GOFAIR](https://www.go-fair.org/fair-principles/) licensed under CC-BY 4.0.
 
 **What does FAIR mean?**
+
 - **Findable**: The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the [FAIRification process](https://www.go-fair.org/fair-principles/fairification-process/).
 - **Accessible**: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
 - **Interoperable**: The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
