@@ -198,7 +198,7 @@ For more information on describing research data using the DataCite metadata sch
 
 Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
 
-In the following section you will learn, how to document your research data.
+In the following section you will learn, how to document your research data by using Electronic Lab Notebooks.
 
 ## References
 ### Further information on RDM
@@ -209,9 +209,10 @@ In the following section you will learn, how to document your research data.
 
 ### Tutorials on RDM
 
-- [Current trainings on RDM from RDM@KIT](https://www.bibliothek.kit.edu/english/calendar-events.php?freetext=FODI-all) (EN and DE)
+- [Current trainings on RDM from RDM@KIT](https://www.bibliothek.kit.edu/english/calendar-events.php?freetext=FODI-all)
+- [Training on demand from RDM@KIT](https://www.rdm.kit.edu/english/train-edu_rdmtoolkit.php)
 - [OpenCourse at KIT](https://opencourses.kit.edu/goto.php?target=crs_1206&client_id=opencourses)
-- [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/) (EN and DE)
+- [forschungsdaten.info - overview on tutorials and materials](https://forschungsdaten.info/praxis-kompakt/tutorials-kurse-und-anleitungen/) 
 - [forschungsdaten.info - calender](https://forschungsdaten.info/kalender-index/) (DE)
 - [Helmholtz Information & Data Science Academy (HiDA)](https://www.helmholtz-hida.de/course-catalog/en/)
 
