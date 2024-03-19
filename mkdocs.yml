@@ -13,6 +13,7 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - md_in_html
+  - attr_list
   - admonition
   - footnotes
 plugins:
