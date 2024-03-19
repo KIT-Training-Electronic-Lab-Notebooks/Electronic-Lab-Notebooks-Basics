@@ -8,6 +8,7 @@ theme:
   custom_dir: resources/overrides
   features:
     - navigation.footer
+    - content.footnote.tooltips
 markdown_extensions:
   - markdown_include.include:
       base_path: .
