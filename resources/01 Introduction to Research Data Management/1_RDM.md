@@ -52,7 +52,7 @@ At the end of the section the learners can ...
 
 >The content in this section is adapted from the [DFG Guidelines on the Handling of Research Data](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
 
-"Research data is an **essential foundation for scientific work**. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data **might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work**. Methodical forms of testing such as **questionnaires, software and simulations** may also produce important results for scientific research and should therefore also be categorised as research data."
+"Research data is an **essential foundation for scientific work**. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data **might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work**. Methodical forms of testing such as **questionnaires, software and simulations** may also produce important results for scientific research and should therefore also be categorised as research data."[^1]
 
 ![Research Data Life Cycle|150](attachments/FDM-Zyklus_CC.png)
 > [Research data cycle](https://www.rdm.kit.edu/english/researchdata_cycle.php) by [RDM@KIT](https://www.rdm.kit.edu/english/index.php) licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -68,9 +68,9 @@ At the end of the section the learners can ...
 
 [Baker 2016](https://doi.org/10.1038/533452a) asks: „Is there a reproducibility crisis?“
 
-"More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." ([Baker 2016](https://doi.org/10.1038/533452a))
+"More than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments." [^2]
 
-"More than half pointed to insufficient replication in the lab" ([Baker 2016](https://doi.org/10.1038/533452a))
+"More than half pointed to insufficient replication in the lab" [^2]
 
 #### Exercise 1.1
 
@@ -84,21 +84,12 @@ At the end of the section the learners can ...
 
 "Researchers **document all information** relevant to the production of a research result as clearly as is required by and is appropriate for the relevant subject area to allow the result to be reviewed and assessed."
 
-“Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ (DFG 2019, KIT 2021)
+“Continuous quality assurance during the research process includes (…) the **keeping of laboratory notebooks**.“ [^3][^4] (DE: [^5][^6])
 
 !!! info "@KIT"
 	
 	More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
-**English version:**
-
-- Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601)..
-- Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
-
-**German version:**
-
-- Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
-- Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf).
 #### Exercise 1.2
 
 Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
@@ -121,7 +112,7 @@ Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institu
 
 ### FAIR principles
 
-According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles."
+According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles." [^7]
 
 An overview and a description of these principles can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
 
@@ -138,10 +129,6 @@ An overview and a description of these principles can be found at the [website o
 - **Accessible**: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorisation.
 - **Interoperable**: The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
 - **Reusable**: The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
-
-- Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. Scientific data 3, 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
-- [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
-- [https://book.fosteropenscience.eu/](https://book.fosteropenscience.eu/)
 
 ### Persistent Identifiers (PIDs)
 
@@ -222,3 +209,12 @@ In the following section you will learn, how to document your research data by u
 - Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
 - Perkel (2023): How to make your scientific data accessible, discoverable and useful. Nature 618 (7967), 1098–1099. [https://doi.org/10.1038/d41586-023-01929-7](https://doi.org/10.1038/d41586-023-01929-7).
 - Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3, S. 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+
+### References
+[^1]: Deutsche Forschungsgemeinschaft (DFG) (2015): DFG Guidelines on the Handling of Research Data. [https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
+[^2]: Baker (2016): 1,500 scientists lift the lid on reproducibility. Nature 533 (7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a).
+[^3]: Deutsche Forschungsgemeinschaft (DFG) (2019): Guidelines for Safeguarding Good Research Practice. Code of Conduct. [https://doi.org/10.5281/zenodo.3923601](https://doi.org/10.5281/zenodo.3923601).
+[^4]: Karlsruhe Institute of Technology (KIT) (2021): Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf).
+[^5]: Deutsche Forschungsgemeinschaft (DFG) (2022): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827). (DE)
+[^6]: Karlsruher Institut für Technologie (KIT) (2021): Satzung zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Technologie (KIT). [https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061.pdf). (DE)
+[^7]: Wilkinson et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3, S. 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
