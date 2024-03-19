@@ -55,7 +55,7 @@ At the end of the section the learners can ...
 "Research data is an **essential foundation for scientific work**. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data **might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work**. Methodical forms of testing such as **questionnaires, software and simulations** may also produce important results for scientific research and should therefore also be categorised as research data."[^1]
 
 <figure markdown="span">
-  ![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png){ width="150" }
+  ![Research Data Life Cycle](attachments/FDM-Zyklus_CC.png){ width="250" }
   <figcaption>Research data cycle</figcaption>
 </figure>
 
