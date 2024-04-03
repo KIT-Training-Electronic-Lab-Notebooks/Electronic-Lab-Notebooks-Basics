@@ -42,7 +42,7 @@ Information that should be included:
 
 ## Activity: LEGO® Metadata for Reproducibility
 
-If you want you can start your course on Electronic Lab Notebooks by using the LEGO® Metadata game.
+If your course is in-person and if you want you can start your course on Electronic Lab Notebooks by using the LEGO® Metadata game.
 
 **Task:**
 - Task 1: Build a small vehicle and make notes on how to replicate the build (15 minutes).
@@ -145,4 +145,4 @@ These links are good to prepare them before the training in e.g. Editor:
 - ELN Finder: https://eln-finder.ulb.tu-darmstadt.de/home
 - Chemotion: https://www.chemotion.net/
 - Kadi4Mat: https://kadi.iam.kit.edu/
-- Link to your Mentimeter and Evaluation form.
+- Link to your Mentimeter and Evaluation form: https://www.bibliothek.kit.edu/english/evaluation-event.php.
