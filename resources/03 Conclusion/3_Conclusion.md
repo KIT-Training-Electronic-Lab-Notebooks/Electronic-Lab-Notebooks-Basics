@@ -22,6 +22,7 @@ Are there further questions? Please contact Carolin Leister [carolin.leister@kit
 - Please fill out the evaluation form: [https://www.bibliothek.kit.edu/english/evaluation-event.php](https://www.bibliothek.kit.edu/english/evaluation-event.php)
 - Course title: Electronic Laboratory Notebooks - Support from data acquisition to publication
 
+## H2
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-html5: __HTML__ for content and structure
