@@ -9,7 +9,9 @@ tags:
 
 # Conclusion
 
-- Are there further questions? Please contact Carolin Leister [carolin.leister@kit.edu](mailto: carolin.leister@kit.edu).
+## Questions
+
+Are there further questions? Please contact Carolin Leister [carolin.leister@kit.edu](mailto: carolin.leister@kit.edu).
 
 ## Evaluation
 
