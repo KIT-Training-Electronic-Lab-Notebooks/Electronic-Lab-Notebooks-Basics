@@ -15,6 +15,10 @@ tags:
 - There are **different categories and providers of ELNs**, therefore it can be helpful to use one of the presented tools to select the right ELN
 - At KIT two ELNs have been developed (**Chemotion** and **Kadi4Mat**), both can be used for your own research
 
+## Questions
+
+Are there further questions? Please contact [Carolin Leister](mailto: carolin.leister@kit.edu).
+
 <div class="warning" style='padding:0.1em; background-color:#00876C; color:#FFFFFF'>
 <span>
 <p style='margin-left:1em;'>
@@ -22,10 +26,6 @@ Thanks for your attention!
 </p>
 </span>
 </div>
-
-## Questions
-
-Are there further questions? Please contact [Carolin Leister](mailto: carolin.leister@kit.edu).
 
 ## Evaluation
 
