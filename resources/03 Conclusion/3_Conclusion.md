@@ -16,9 +16,6 @@ Are there further questions? Please contact Carolin Leister [carolin.leister@kit
 ## Evaluation
 
 
-<figure markdown="span">
-  ![QR Code for Evaluation](attachments/Evaluation_en.png){ align=left }
-</figure>
 
 ![QR Code for Evaluation](attachments/Evaluation_en.png){ align=left }
 
