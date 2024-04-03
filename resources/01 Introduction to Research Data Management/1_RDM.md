@@ -125,8 +125,6 @@ At the end of the section the learners can ...
 
 According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles." [^7]
 
-An overview and a description of these principles can be found at the [website of GO FAIR](https://www.go-fair.org/fair-principles/).
-
 > The content in this section is adapted from [GOFAIR](https://www.go-fair.org/fair-principles/) licensed under CC-BY 4.0.
 
 **What does FAIR mean?**
