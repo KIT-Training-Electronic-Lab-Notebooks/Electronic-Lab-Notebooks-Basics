@@ -118,6 +118,26 @@ At the end of the section the learners can ...
 
 	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
+
+!!! example
+
+    === "Unordered List"
+
+        ``` markdown
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+        ```
+
+    === "Ordered List"
+
+        ``` markdown
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+        ```
+
+
 ### FAIR principles
 
 According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles." [^7]
