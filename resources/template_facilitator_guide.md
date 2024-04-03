@@ -119,6 +119,17 @@ Set up a [Mentimeter](https://www.mentimeter.com/) with the following questions:
 
 Don't forget to add the QR-Code of your Mentimeter to your slides.
 
+## Activity: RDM Scary Tales
+
+You can also use the RDM Scary Tales to start your course.
+
+"This dataset consists of 65 stories about bad (research) data management based on true stories. The stories were collected and rewritten by the Thuringian Competence Network for Research Data Management. The text of the stories themselves are free to use under the CC0 licence. This does not include the illustrations, which were used on the webpage or in the card game to visualize the stories."
+
+**References:**
+
+- https://forschungsdaten-thueringen.de/rdm-scarytales/articles/overview.html
+- Lang, K., Gerlach, R., Rex, J., Neute, N., Annett Schröter, Schwartze, V., Assmann, C., Lehmann, A., Boelter, S., & Meyer, R. (2023). Research Data ScaryTales (4.1) Data set. Zenodo. https://doi.org/10.5281/zenodo.10281701
+
 ## Links for the session
 
 These links are good to prepare them before the training in e.g. Editor:
