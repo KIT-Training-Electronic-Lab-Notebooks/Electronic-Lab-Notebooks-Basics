@@ -17,6 +17,19 @@ tags:
   </div>
 </div>
 
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-left:1em;'>
+First of all: Welcome to this course!
+</p>
+</span>
+</div>
+
+```  
+First of all: Welcome to this course!
+```
+
+
 First of all: Welcome to this course!
 
 ## Content of this Learning material
