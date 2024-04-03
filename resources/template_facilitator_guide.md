@@ -125,6 +125,13 @@ You can also use the RDM Scary Tales to start your course.
 
 "This dataset consists of 65 stories about bad (research) data management based on true stories. The stories were collected and rewritten by the Thuringian Competence Network for Research Data Management. The text of the stories themselves are free to use under the CC0 licence. This does not include the illustrations, which were used on the webpage or in the card game to visualize the stories."
 
+**Examples for Data documentation:**
+
+- [27 - Trouble down the line](https://forschungsdaten-thueringen.de/stories/articles/trouble-down-the-line-eng.html)
+- [31 - Undocumented](https://forschungsdaten-thueringen.de/stories/articles/undocumented-eng.html)
+- [36 - Lost in Translation](https://forschungsdaten-thueringen.de/stories/articles/lost-in-translation.html)
+- [60 - Units of measurement are no laughing matter](https://forschungsdaten-thueringen.de/stories/articles/20221028-Units-of-measurement-are-no-laughing-matter.html).
+
 **References:**
 
 - https://forschungsdaten-thueringen.de/rdm-scarytales/articles/overview.html
