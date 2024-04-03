@@ -40,8 +40,7 @@ At the end of the section the learners can ...
 
 ### Learning Tools
 
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
+- [ORCID](https://orcid.org/register)
 
 ---
 
@@ -68,6 +67,7 @@ At the end of the section the learners can ...
 !!! info "@KIT"
 
 	Have a look at the [Guidelines for Responsible and Substainable Research Data Management at KIT](https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf). (German version: "[Leitlinien zu einem verantwortungsvollen und nachhaltigen Forschungsdatenmanagement am KIT](https://www.dsb.kit.edu/downloads/Leitlinien%20zum%20Forschungsdatenmanagement_FDM-Policy_final.pdf)")
+
 ### Why should I manage research data?
 
 [Baker 2016](https://doi.org/10.1038/533452a) asks: „Is there a reproducibility crisis?“
@@ -80,6 +80,7 @@ At the end of the section the learners can ...
 
 	**Question:** What can help researchers to reproduce experiments? What are the
 	advantages of research data management?
+
 ### Good Research Practice
 
 - Research data must be well documented
@@ -97,6 +98,8 @@ At the end of the section the learners can ...
 
 !!! example "Exercise 1.2a: DFG"
 
+	=== "Exercise 1.2a: DFG"
+	
 	Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
 	- Guideline 7: Cross-phase quality assurance
@@ -105,6 +108,10 @@ At the end of the section the learners can ...
 	- Guideline 17: Archiving
 	
 	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
+	
+	=== "Exercise 1.2b: KIT"
+	
+	Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
 OR
 
