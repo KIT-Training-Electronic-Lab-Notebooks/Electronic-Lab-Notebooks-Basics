@@ -7,7 +7,7 @@ tags:
 
 # Welcome
 
-<div class="warning" style='padding:0.1em; background-color:#00876C; color:#404040'>
+<div class="warning" style='padding:0.1em; background-color:#00876C; color:#FFFFFF'>
 <span>
 <p style='margin-left:1em;'>
 First of all: Welcome to this course!
