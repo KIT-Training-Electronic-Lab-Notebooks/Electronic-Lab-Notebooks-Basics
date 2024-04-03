@@ -107,7 +107,7 @@ At the end of the section the learners can ...
 	- Guideline 17: Archiving
 	
 	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
-	
+
 	=== "Exercise 1.2b: KIT"
 		Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
 
@@ -119,16 +119,20 @@ At the end of the section the learners can ...
 	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
 
-!!! example
+!!! example "Exercise 1.2: Good research practice"
 
-    === "Unordered List"
+    === "Exercise 1.2a: DFG"
 
-        * Sed sagittis eleifend rutrum
-        * Donec vitae suscipit est
-        * Nulla tempor lobortis orci
-        
+        Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
-    === "Ordered List"
+	- Guideline 7: Cross-phase quality assurance
+	- Guideline 12: Documentation
+	- Guideline 13: Providing public access to research results
+	- Guideline 17: Archiving
+	
+	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
+
+    === "Exercise 1.2b: KIT"
 
         1. Sed sagittis eleifend rutrum
         2. Donec vitae suscipit est
