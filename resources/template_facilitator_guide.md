@@ -40,7 +40,36 @@ Information that should be included:
 - Release notes
 - New version and publication on Zenodo
 
-## Menti
+## Activity: LEGO® Metadata for Reproducibility
+
+If you want you can start your course on Electronic Lab Notebooks by using the LEGO® Metadata game.
+
+**Task:**
+- Task 1: Build a small vehicle and make notes on how to replicate the build (15 minutes).
+- Task 2: Using the resources provided by the previous group, attempt to replicate their build (10 minutes).
+
+**Discussion:**
+
+- How was it? What was helpful? What was missing?
+- How was the documentation?
+- How was the reproduction?
+
+- How helpful were:
+	- Free text vs. template
+	- Stone list
+	
+- What does this have to do with research (data management)?
+
+- How do you document your research (data)?
+
+**References:**
+
+- Biernacka (2020): LEGO® Metadaten für die Reproduzierbarkeit. DOI: [https://doi.org/10.5281/zenodo.3733164](https://doi.org/10.5281/zenodo.3733164).
+- Donaldson & Mahon (2019); LEGO® Metadata for Reproducibility. University of Glasgow. DOI: [http://dx.doi.org/10.36399/gla.pubs.196477](http://dx.doi.org/10.36399/gla.pubs.196477)
+
+After that game you can start directly with your content about Research data management, Good research practise and Data documentation.
+
+## Activity: Menti
 
 Set up a [Mentimeter](https://www.mentimeter.com/) with the following questions:
 
