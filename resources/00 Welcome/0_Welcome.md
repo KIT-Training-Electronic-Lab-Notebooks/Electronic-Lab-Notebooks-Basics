@@ -1,5 +1,5 @@
 ---
-title: 00 Welcome
+title: 0 Welcome
 author: Carolin Leister
 tags:
   - Welcome
