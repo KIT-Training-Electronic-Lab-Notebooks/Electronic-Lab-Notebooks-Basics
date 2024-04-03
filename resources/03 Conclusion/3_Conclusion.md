@@ -24,8 +24,41 @@ Are there further questions? Please contact Carolin Leister [carolin.leister@kit
 
 <div class="grid cards" markdown>
 
-	- __HTML__ for content and structure
-	- Please fill out the evaluation form: [https://www.bibliothek.kit.edu/english/evaluation-event.php](https://www.bibliothek.kit.edu/english/evaluation-event.php)
+- :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+
+</div>
+
+
+
+
+<div class="grid" markdown>
+
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+
+``` title="Content tabs"
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+```
 
 </div>
 
