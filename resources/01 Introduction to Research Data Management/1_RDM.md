@@ -205,7 +205,7 @@ For more information on describing research data using the DataCite metadata sch
 
 Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
 
-In the following section you will learn, how to document your research data by using Electronic Lab Notebooks.
+In the following section you will learn, how to document your research data by using **Electronic Lab Notebooks**.
 
 ## References
 ### Further information on RDM
