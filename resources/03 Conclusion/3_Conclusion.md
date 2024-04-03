@@ -30,7 +30,6 @@ Thanks for your attention!
 ## Evaluation
 
 
-
 ![QR Code for Evaluation](attachments/Evaluation_en.png){ align=left }
 
 Please fill out the evaluation form with the course title: **"Electronic Laboratory Notebooks - Support from data acquisition to publication"**
