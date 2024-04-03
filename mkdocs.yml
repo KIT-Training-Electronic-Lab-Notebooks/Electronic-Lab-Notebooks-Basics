@@ -12,8 +12,8 @@ theme:
 markdown_extensions:
   - markdown_include.include:
       base_path: .
-  - md_in_html
   - attr_list
+  - md_in_html
   - admonition
   - footnotes
   - pymdownx.superfences
