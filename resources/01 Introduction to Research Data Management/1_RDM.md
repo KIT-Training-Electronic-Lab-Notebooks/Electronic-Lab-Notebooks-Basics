@@ -76,9 +76,10 @@ At the end of the section the learners can ...
 
 "More than half pointed to insufficient replication in the lab" [^2]
 
-!!! example "Exercise 1.1"
+!!! example "Exercise 1.1: Reproduction crisis"
 
-	**Question:** What can help researchers to reproduce experiments? What are the
+	- Have you ever failed to reproduce an experiment?
+	- What can help researchers to reproduce experiments? What are the
 	advantages of research data management?
 
 ### Good Research Practice
@@ -120,7 +121,11 @@ At the end of the section the learners can ...
 	    
 	    **Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
+### Data documentation
 
+!!! example "Exercise 1.3: Data documentation"
+
+	How do you document your research (data)?
 ### FAIR principles
 
 According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "all research objects should be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable (FAIR) both for machines and for people". These principles are now "referred to as the FAIR Guiding Principles." [^7]
@@ -184,7 +189,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 - The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
 - Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
 
-!!! example "Exercise 1.3"
+!!! example "Exercise 1.4: ORCID"
 
 	**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update your account.
 

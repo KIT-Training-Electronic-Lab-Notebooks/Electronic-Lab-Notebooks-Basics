@@ -28,5 +28,7 @@ Then we will dive into the topic of **Electronic Lab Notebooks**. We start with 
 
 	- Let us know: Who are you and what is your field of expertise?
 	- What research data do you work with?
-	- Have you ever used an Lab Notebook? And have you ever used an Electronic Lab Notebook? If yes, which one?
+	- Have you ever used an Lab Notebook?
+	- And have you ever used an Electronic Lab Notebook? If yes, which one?
+	- What do you know about Electronic Lab Notebooks?
 
