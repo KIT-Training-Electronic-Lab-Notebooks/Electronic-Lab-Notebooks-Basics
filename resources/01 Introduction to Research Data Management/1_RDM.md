@@ -123,7 +123,7 @@ At the end of the section the learners can ...
 
     === "Exercise 1.2a: DFG"
 
-        Read the "[DFG Guidelines of Safeguarding Good Research Practice (https://doi.org/10.5281/zenodo.3923601)", especially
+        Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
         
         - Guideline 7: Cross-phase quality assurance
         - Guideline 12: Documentation
@@ -133,10 +133,15 @@ At the end of the section the learners can ...
         **Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
     === "Exercise 1.2b: KIT"
-
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
+    
+	    Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
+	    
+	    - Article 8: Cross-phase Quality Assurance and Research Design
+	    - Article 11: Documentation
+	    - Article 12: Archiving
+	    - Article 13: Scientific Publication and Providing Public Access to Research Results
+	    
+	    **Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 
 
 ### FAIR principles
