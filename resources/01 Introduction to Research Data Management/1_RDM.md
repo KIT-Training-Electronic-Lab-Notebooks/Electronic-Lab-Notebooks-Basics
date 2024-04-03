@@ -96,11 +96,10 @@ At the end of the section the learners can ...
 	
 	More information regarding **good research practice at KIT** can be found on the [website of the Office for Good Scientific Practice and Ethical Principles at KIT (GWP)](https://www.gwp.kit.edu/english/index.php).
 
-!!! example "Exercise 1.2a: DFG"
+!!! example "Exercise 1.2: Good research practice"
 
 	=== "Exercise 1.2a: DFG"
-	
-	Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
+		Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
 
 	- Guideline 7: Cross-phase quality assurance
 	- Guideline 12: Documentation
@@ -110,14 +109,7 @@ At the end of the section the learners can ...
 	**Question:** What influence does this policy have on your daily work? How does it affect your research? How do you document your research (data)?
 	
 	=== "Exercise 1.2b: KIT"
-	
-	Read the "[DFG Guidelines of Safeguarding Good Research Practice](https://doi.org/10.5281/zenodo.3923601)", especially
-
-OR
-
-!!! example "Exercise 1.2b: KIT"
-
-	Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
+		Read the "[Statutes for Safeguarding Good Research Practice at Karlsruhe Institute of Technology (KIT)](https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2021_AB_061_English.pdf)", especially
 
 	- Article 8: Cross-phase Quality Assurance and Research Design
 	- Article 11: Documentation
