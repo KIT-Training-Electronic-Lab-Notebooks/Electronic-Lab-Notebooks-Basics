@@ -49,7 +49,7 @@ At the end of the section the learners can ...
 
 ### What is Research Data?
 
->The content in this section is adapted from the [DFG Guidelines on the Handling of Research Data](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
+>The content in this section is used from the [DFG Guidelines on the Handling of Research Data](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_research_data.pdf).
 
 "Research data is an **essential foundation for scientific work**. The diversity of this data reflects the wide range of different scientific disciplines, research interests and research methods. Research data **might include measurement data, laboratory values, audiovisual information, texts, survey data, objects from collections, or samples that were created, developed or evaluated during scientific work**. Methodical forms of testing such as **questionnaires, software and simulations** may also produce important results for scientific research and should therefore also be categorised as research data."[^1]
 
@@ -192,7 +192,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 ### Metadata
 
-> The content in this section is adapted from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm_metadata.php).
+> The content in this section is used from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm_metadata.php).
 
 Metadata is **structured, machine-readable information about research data**, so-called "data about data". A classic example is bibliographic metadata such as author, title, year of publication, and publisher. They serve several functions: to ensure the **discoverability** of the data, to improve the **understandability** of the data, and to enable the **processing** and **reuse** of the data[^8][^9].
 
@@ -203,7 +203,7 @@ In order for research data to remain comprehensible, consistent and interoperabl
 For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x). You can also have a look at the course ["Fundamentals of Scientific Metadata"](https://carpentries-incubator.github.io/scientific-metadata/) of the [Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en).
 ## Summary
 
-> The content in this section is adapted from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm.php).
+> The content in this section is used from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm.php).
 
 Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
 
