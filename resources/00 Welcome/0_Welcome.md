@@ -7,6 +7,16 @@ tags:
 
 # Welcome
 
+<div class="container bg-dark p-5 mb-3">
+  <div class="row row-xl p-xl-5">
+    <div class="col col-xl p-xl-5">
+        <div class="p-5 mx-2 bg-dark text-white">
+            <p> First of all: Welcome to this course! </p>
+        </div>
+    </div>
+  </div>
+</div>
+
 First of all: Welcome to this course!
 
 ## Content of this Learning material
