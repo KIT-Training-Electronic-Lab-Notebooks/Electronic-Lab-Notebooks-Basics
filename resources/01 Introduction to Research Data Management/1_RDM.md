@@ -218,6 +218,8 @@ Metadata is stored in a structured way so that it can be read and processed by b
 In order for research data to remain comprehensible, consistent and interoperable, it is important that the associated metadata follow a certain structure. For this reason, a number of cross-disciplinary as well as discipline-specific **metadata schemas** have evolved and are now considered standards. More detailed information can be found at [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/).
 
 For more information on describing research data using the DataCite metadata schema as an example, see the following [video from Research Data Management Bavaria](https://www.youtube.com/watch?v=y7XulIpa6gk&list=PL9ZaxDtkP6tz9dIpvNyLNj_xsUgdkMdy7&index=3), using the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/) and the associated [Best Practice Guide](https://zenodo.org/record/7040047#.ZG21r4TP02x). You can also have a look at the course ["Fundamentals of Scientific Metadata"](https://carpentries-incubator.github.io/scientific-metadata/) of the [Helmholtz Metadata Collaboration (HMC)](https://helmholtz-metadaten.de/en).
+
+![](attachments/DataCite_Metadata_Generator.gif)
 ## Summary
 
 > The content in this section is used from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm.php).
