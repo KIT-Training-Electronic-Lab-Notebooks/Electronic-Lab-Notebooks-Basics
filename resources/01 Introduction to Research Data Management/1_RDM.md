@@ -128,6 +128,7 @@ At the end of the section the learners can ...
 If research data should be reused, it must be described in a meaningful way and in as much detail as possible. This does not only concern the reuse by third parties - e.g. after publication of the data - but also to future use by the data creator themselves. It is therefore always best to document how, when and for what purpose the data was created as soon as it is created.
 
 Data documentation can be provided in a wide variety of formats, e.g.
+
 - in an accompanying ReadMe file
 - very structured as metadata
 - in an internal project wiki
