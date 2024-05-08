@@ -38,7 +38,7 @@ hide:
 - none
 
 ## Location
-- none
+- none, ...
 
 ## Training Description
 Laboratory notebooks play an important role in **planning, conducting and analysing scientific experiments**. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These **Electronic Lab Notebooks (ELNs)** have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.
