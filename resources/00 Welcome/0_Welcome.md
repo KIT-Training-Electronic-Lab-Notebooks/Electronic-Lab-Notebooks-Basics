@@ -20,6 +20,8 @@ First of all: Welcome!
 
 This material serves as a follow-up to a training course on the subject of electronic lab notebooks. However, it can also be used as a self-learning material. 
 
+###Legend
+
 !!! example "Exercise 0.1: Short introduction"
 
 	This highlights exercises that were included in the training course. If you are using this GitBook as self-learning material, you can think about these questions for yourself and work through the exercises.
