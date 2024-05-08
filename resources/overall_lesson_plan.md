@@ -5,7 +5,7 @@ tags:
   - Electronic Lab Notebooks
 ---
 
-# Unit Lesson Plan
+# Overall Lesson Plan
 
 ## Electronic Lab Notebooks
 
