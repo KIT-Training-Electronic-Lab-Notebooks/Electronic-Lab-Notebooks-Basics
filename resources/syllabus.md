@@ -32,16 +32,13 @@ hide:
 
 {!RELEASE_NOTES.md!}
 
-# Type: Workshop
+# Type: Online Course
 
 ## Date/Time
-- RDM course: April 30, 2024 / 10:00 am - 5:00 pm CEST
-- ELN part: April 30, 2024 / 2:00 - 3:30 pm CEST
+- none
 
 ## Location
-- Karlsruhe Institute of Technology (KIT)
-- [Bldg. 30.51](https://www.kit.edu/campusplan/?id=30.51), KIT-Bibliothek Süd, 3. OG Neubau, Vortragssaal/Lecture Hall ([https://www.bibliothek.kit.edu/img/PlaeneBIB-S/BIB-S-OG3-A4-Vortragssaal-Lecture-Hall.pdf](https://www.bibliothek.kit.edu/img/PlaeneBIB-S/BIB-S-OG3-A4-Vortragssaal-Lecture-Hall.pdf))
-- [Registration](https://www.khys.kit.edu/veranstaltungskalender.php/event/51506?f=%7B%22v%22%3A%22list%22%2C%22d%22%3A%2220240403%22%7D#calendar_top) needed
+- none
 
 ## Training Description
 Laboratory notebooks play an important role in **planning, conducting and analysing scientific experiments**. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These **Electronic Lab Notebooks (ELNs)** have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.
