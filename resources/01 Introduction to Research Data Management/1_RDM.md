@@ -125,16 +125,16 @@ At the end of the section the learners can ...
 
 > The following information is translated from [forschungsdaten.info](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
 
-If research data should be reused, it must be described in a meaningful way and in as much detail as possible. This does not only concern the reuse by third parties - e.g. after publication of the data - but also to future use by the data creator themselves. It is therefore always best to document how, when and for what purpose the data was created as soon as it is created.
+If research data should be reused, it must be **described in a meaningful way and in as much detail as possible**. This does not only concern the reuse by third parties - e.g. after publication of the data - but also to future use by the data creator themselves. It is therefore always best to document how, when and for what purpose the data was created as soon as it is created.
 
 Data documentation can be provided in a wide variety of formats, e.g.
 
-- in an accompanying ReadMe file
-- very structured as metadata
-- in an internal project wiki
-- in an (electronic) lab notebook
-- directly in a data management plan (DMP)
-- within the folder structure and file naming
+- in an accompanying **ReadMe file**
+- structured as **metadata**
+- in an internal **project wiki**
+- in an **(electronic) lab notebook**
+- in a **data management plan (DMP)**
+- within the **folder structure** and **file naming**
 - in the file itself or in the meta information of the file.
 
 !!! example "Exercise 1.3: Data documentation"
