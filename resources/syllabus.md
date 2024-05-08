@@ -17,10 +17,10 @@ targetGroup: Students; PhD Students; Post docs; Laboratory staff
 learningResourceType: Workshop
 learningOutcome:
   - Describe what an electronic lab notebook is
-  - Give examples of electronic lab notebook
+  - Give examples of electronic lab notebooks
   - Explain advantages of an electronic lab notebook
-  - Compare different Electronic Lab Notebooks (e.g. Chemotion and Kadi4Mat)
-  - Select a electronic lab notebook that fits their needs
+  - Compare different electronic lab notebooks (e.g. Chemotion and Kadi4Mat)
+  - Select an electronic lab notebook that fits their needs
 accessCost: N
 expertiseLevel: beginner
 template: signposting.html
@@ -38,7 +38,7 @@ hide:
 - none
 
 ## Location
-- none, ...
+- none
 
 ## Training Description
 Laboratory notebooks play an important role in **planning, conducting and analysing scientific experiments**. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These **Electronic Lab Notebooks (ELNs)** have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.
@@ -75,10 +75,10 @@ Laboratory notebooks play an important role in **planning, conducting and analys
 At the end of the training the learners can ...
 
 - **Describe** what an electronic lab notebook is
-- **Give examples** of electronic lab notebook
+- **Give examples** of electronic lab notebooks
 - **Explain** advantages of an electronic lab notebook
-- **Compare** different Electronic Lab Notebooks (e.g. Chemotion and Kadi4Mat)
-- **Select** a electronic lab notebook that fits their needs
+- **Compare** different electronic lab notebooks (e.g. Chemotion and Kadi4Mat)
+- **Select** an electronic lab notebook that fits their needs
 
 ## Keywords
  - Electronic Lab Notebooks
