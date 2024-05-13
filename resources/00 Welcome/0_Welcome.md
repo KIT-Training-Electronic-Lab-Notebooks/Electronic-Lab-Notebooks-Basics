@@ -22,11 +22,11 @@ This material serves as a follow-up to a training course on the subject of elect
 
 ###Legend
 
-!!! success "note"
+!!! success "Note"
 
 	This section provides a brief summary of the previous content.
 
-!!! example "Exercise 0.1: Short introduction"
+!!! example "Exercise"
 
 	This highlights exercises that were included in the training course. If you are using this GitBook as self-learning material, you can think about these questions for yourself and work through the exercises.
 
