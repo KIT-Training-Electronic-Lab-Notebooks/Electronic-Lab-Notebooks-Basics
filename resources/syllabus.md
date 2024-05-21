@@ -92,10 +92,11 @@ At the end of the training the learners can ...
 | 5 min     | Check-in                                               |
 | 5 min     | Welcome (Section 0)                                    |
 | 15 min    | Introduction to Research Data Management (Section 1)   |
-| 20 min    | Introduction to Electronic Lab Notebooks (Section 2.1) |
-| 15 min    | Chemotion (Section 2.2)                                |
-| 15 min    | Kadi4Mat (Section 2.3)                                 |
-| 10 min    | Conclusion and further questions                       |
+| 15 min    | Introduction to Electronic Lab Notebooks (Section 2.1) |
+| 10 min    | Selection of Electronic Lab Notebooks (Section 2.2)    |
+| 15 min    | Chemotion (Section 2.3)                                |
+| 15 min    | Kadi4Mat (Section 2.4)                                 |
+| 5 min     | Conclusion and further questions                       |
 | 5 min     | Evaluation of the training                             |
 | -         | End                                                    |
 
