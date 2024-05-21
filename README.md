@@ -4,6 +4,8 @@ Welcome to the learning material on "**Electronic Lab Notebooks - Support from d
 
 Materials can be found on [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics), as well as in the related [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/).
 
+Powerpoint slides can be found in the attachments of this material:![attachments](resources/attachments/Electronic-Lab-Notebooks_english_upload_GitBook.pptx).
+
 Please refer to the [CITATION file](CITATION.cff) for information on how to cite.
 
 ## Training Description
