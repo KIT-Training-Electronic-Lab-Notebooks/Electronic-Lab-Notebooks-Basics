@@ -20,7 +20,7 @@ First of all: Welcome!
 
 This material serves as a follow-up to a training course on the subject of electronic lab notebooks. However, it can also be used as a self-learning material. 
 
-The presentation can be found in the [attachments of this material](resources/attachments/Electronic-Lab-Notebooks_english_upload_GitBook.pptx).
+The presentation can be found in the [attachments of this material](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics/blob/main/resources/attachments/Electronic-Lab-Notebooks_english_upload_GitBook.pptx).
 
 ###Legend
 
