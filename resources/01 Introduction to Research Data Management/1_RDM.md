@@ -152,10 +152,10 @@ According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "a
 ```
 <div class="grid cards" markdown>
 
-- :octicons-search-16: __F__ for __Findable__
-- :simple-openaccess: __A__ for __Accessible__
-- :octicons-arrow-switch-16: __I__ for __Interoperable__
-- :fontawesome-solid-user-pen: __R__ for __Reusable__
+- __F__ for __Findable__
+- __A__ for __Accessible__
+- __I__ for __Interoperable__
+- __R__ for __Reusable__
 
 </div>
 ```
