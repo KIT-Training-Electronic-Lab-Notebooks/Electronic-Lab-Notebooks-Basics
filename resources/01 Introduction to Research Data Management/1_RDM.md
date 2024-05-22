@@ -13,9 +13,11 @@ tags:
 
 # 1.1 Introduction to Research Data Management
 
-This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed for Chapter 2**.
+!!! quote ""
 
-Please note that this section will not go into too much detail as there are many courses out there describing research data management. At the end of this section links will be provided about where to find further information.
+	This section provides a **short introduction into the principles of research data mangement**. Its purpose is to **provide the basic knowledge of research data management needed for Chapter 2**.
+	
+	Please note that this section will not go into too much detail as there are many courses out there describing research data management. At the end of this section links will be provided about where to find further information.
 
 
 ---
@@ -227,9 +229,11 @@ For more information on describing research data using the DataCite metadata sch
 
 > The content in this section is used from [RDM@KIT](https://www.rdm.kit.edu/english/researchdata_rdm.php).
 
-Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
+!!! quote ""
 
-In the following section you will learn, how to document your research data by using **Electronic Lab Notebooks**.
+	Good research today must not only be rigorous, innovative and insightful - it must also be organized! Research processes increasingly generate and process large amounts of data that should be available for future use. Following FAIR principles, this data must be indexed, documented, archived, and reusable.
+	
+	In the following section you will learn, how to document your research data by using **Electronic Lab Notebooks**.
 
 ## References
 ### Further information on RDM
