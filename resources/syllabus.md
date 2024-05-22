@@ -26,6 +26,7 @@ expertiseLevel: beginner
 template: signposting.html
 hide:
   - toc
+access_details: open access
 ---
 
 # Electronic Lab Notebooks - Support from data acquisition to publication
