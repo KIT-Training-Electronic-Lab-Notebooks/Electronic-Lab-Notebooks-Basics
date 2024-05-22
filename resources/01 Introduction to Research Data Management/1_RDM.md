@@ -147,19 +147,6 @@ According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "a
 
 > The content in this section is adapted from [GOFAIR](https://www.go-fair.org/fair-principles/) licensed under CC-BY 4.0.
 
-**What does FAIR mean?**
-
-```
-<div class="grid cards" markdown>
-
-- __F__ for __Findable__
-- __A__ for __Accessible__
-- __I__ for __Interoperable__
-- __R__ for __Reusable__
-
-</div>
-```
-
 !!! note ""
 
 	=== "**Findable**"
@@ -214,7 +201,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 
 **Open Researcher and Contributor iD (ORCID):**
 
-- The Open Researcher and Contributor iD (ORCID iD) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
+- The Open Researcher and Contributor iD (ORCID) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
 - Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
 
 !!! example "Exercise 1.4: ORCID"
