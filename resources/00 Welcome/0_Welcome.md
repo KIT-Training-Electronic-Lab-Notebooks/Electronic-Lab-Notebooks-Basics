@@ -11,14 +11,14 @@ tags:
 <div class="warning" style='padding:0.1em; background-color:#00876C; color:#FFFFFF'>
 <span>
 <p style='margin-left:1em;'>
-First of all: **Welcome!**
+First of all: Welcome!
 </p>
 </span>
 </div>
 
 ## How to work with this material
 
-This material serves as a follow-up to a training course on the subject of electronic lab notebooks. However, it can also be used as a self-learning material. 
+This material serves as a follow-up to a training course on the subject of electronic lab notebooks. However, it can also be used as self-learning material. 
 
 The powerpoint slides can be found in the [attachments of this material](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics/blob/main/resources/attachments/Electronic-Lab-Notebooks_english_upload_GitBook.pptx).
 
