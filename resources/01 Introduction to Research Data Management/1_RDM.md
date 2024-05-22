@@ -40,6 +40,7 @@ At the end of the section the learners can ...
 
 ### Learning Tools
 
+- F-UJI
 - [ORCID](https://orcid.org/register)
 
 ---
@@ -169,6 +170,7 @@ According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "a
 ![FAIR Data Principles](attachments/02_open_research_data_material.png)
 > [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
+If you want to test the FAIRness of your data, you can use the [F-UJI tool](https://www.f-uji.net/index.php?action=test), just type in the  identifier (e.g. DOI, URL) of your data and click on `Start FAIR assessment`.
 ### Persistent Identifiers (PIDs)
 
 > The following information is translated from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
