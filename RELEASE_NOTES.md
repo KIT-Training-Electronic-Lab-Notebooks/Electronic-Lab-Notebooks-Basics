@@ -1,6 +1,10 @@
 <details markdown>
 <summary>Release Notes</summary>
 
+## 1.1.1 (2024-05-22)
+
+- Update on DOI in the Powerpoint slides.
+
 ## 1.1.0 (2024-05-21)
 
 **Technical and style updates:**
