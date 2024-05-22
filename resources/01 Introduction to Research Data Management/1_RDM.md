@@ -40,7 +40,7 @@ At the end of the section the learners can ...
 
 ### Learning Tools
 
-- F-UJI
+- [F-UJI](https://www.f-uji.net/)
 - [ORCID](https://orcid.org/register)
 
 ---
