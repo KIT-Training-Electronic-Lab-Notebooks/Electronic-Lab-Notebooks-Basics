@@ -169,7 +169,9 @@ According to [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) "a
 ![FAIR Data Principles](attachments/02_open_research_data_material.png)
 > [FAIR Data Principles](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/1.1/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png) from the FOSTER [Open Science Training Handbook](https://book.fosteropenscience.eu/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-If you want to test the FAIRness of your data, you can use the [F-UJI tool](https://www.f-uji.net/index.php?action=test), just type in the  identifier (e.g. DOI, URL) of your data and click on `Start FAIR assessment`.
+!!! example "Exercise 1.4: FAIRness of your data"
+
+	**Action:** Test the FAIRness of your data, therefore use the [F-UJI tool](https://www.f-uji.net/index.php?action=test), just type in the  identifier (e.g. DOI, URL) of your data and click on `Start FAIR assessment`.
 ### Persistent Identifiers (PIDs)
 
 > The following information is translated from [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/) licensed under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
@@ -204,7 +206,7 @@ For the above reasons, the concept of the persistent identifier was developed, w
 - The Open Researcher and Contributor iD (ORCID) links research results and activities permanently and unambiguously with **scholars and researchers** worldwide. Using ORCID actively increases the visibility of your research, independent of institutions and commercial providers.
 - Example: [https://orcid.org/0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
 
-!!! example "Exercise 1.4: ORCID"
+!!! example "Exercise 1.5: ORCID"
 
 	**Action:** Create your own [ORCID-Account](https://orcid.org/register). If you already use ORCID then take the time to update your account.
 
