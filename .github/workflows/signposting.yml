@@ -3,12 +3,10 @@ on:
   workflow_dispatch:
   workflow_call:
 jobs:
-  override_variables:
-    name: Override variables
-    runs-on: ubuntu-22.04
   signposting:
+    runs-on: ubuntu-22.04
     steps:
-    - name: Check out a copy of the repository
+      - name: Check out a copy of the repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -31,17 +29,19 @@ jobs:
             linkset_path="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/$GITHUB_REF_NAME/linkset.json"
             echo "LINKSET_URL=$linkset_path" >> $GITHUB_ENV
             echo "The profile is ${signposting_profile}"
+
       - name: Extract information
         uses: korvoj/signposting@1.0.1
         with:
           default-profile-discovered-items: ${{ env.SIGNPOSTING_PROFILE }}
           github-pages-url: ${{ env.GH_PAGES_URL }}
-     - name: Update variables
+
+      - name: Update variables
         uses: mikefarah/yq@v4.34.2
         with:
           cmd: |
             yq eval -i '.signposting_linkset="${{ env.LINKSET_URL }}"' mkdocs.yml 
-
+  
       - name: Check for changes
         run: |
           test -z "$(git status --porcelain)" || echo "changes=true" >> $GITHUB_ENV
