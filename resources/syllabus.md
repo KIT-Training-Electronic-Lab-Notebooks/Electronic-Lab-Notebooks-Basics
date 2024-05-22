@@ -11,7 +11,7 @@ abstract: Laboratory notebooks play an important role in planning, conducting an
 primaryLanguage: en
 license: https://creativecommons.org/licenses/by/4.0/
 versionDate: 2024-05-21
-urlToResource: https://doi.org/10.5281/zenodo.11242027
+urlToResource: https://doi.org/10.5281/zenodo.11242089
 resourceURLType: URL
 targetGroup: Students; PhD Students; Post docs; Laboratory staff
 learningResourceType: Workshop
@@ -104,7 +104,7 @@ At the end of the training the learners can ...
 ## Resources and Materials
 - [GitBook](https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/)
 - [GitHub](https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics)
-- [Zenodo Publication](https://doi.org/10.5281/zenodo.11242027)
+- [Zenodo Publication](https://doi.org/10.5281/zenodo.11242089)
  
 ## Certification Information
 - none
@@ -124,7 +124,7 @@ At the end of the training the learners can ...
 
 ## DOI
 
-[https://doi.org/10.5281/zenodo.11242027](https://doi.org/10.5281/zenodo.11242027)
+[https://doi.org/10.5281/zenodo.11242089](https://doi.org/10.5281/zenodo.11242089)
 
 ## Accessibility Mission
 
