@@ -46,6 +46,8 @@ At the end we will conclude the results ([03 Conclusion](../03%20Conclusion/3_Co
 
 ## Short introduction
 
+As a warm up and get to know each other: Let's start with a short introduction.
+
 !!! example "Exercise 0.1: Short introduction"
 
 	- Let us know: Who are you and what is your field of expertise?
