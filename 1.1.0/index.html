@@ -1,0 +1,884 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="['Carolin Leister']">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-8.5.7">
+    
+  
+    <meta name="title" content="Electronic Lab Notebooks - Support from data acquisition to publication"/>
+  
+  
+    <meta name="tags" content="['Electronic Lab Notebooks', 'Chemotion', 'Kadi4Mat', 'ELN Finder']"/>
+  
+
+  
+    <meta name="abstract" content="Laboratory notebooks play an important role in planning, conducting and analysing scientific experiments. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These Electronic Lab Notebooks (ELNs) have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing."/>
+  
+  
+    <meta name="primaryLanguage" content="en"/>
+  
+  
+    <meta name="license" content="https://creativecommons.org/licenses/by/4.0/"/>
+  
+  
+    <meta name="versionDate" content="2024-05-21"/>
+  
+  
+    <meta name="abstract" content="https://doi.org/10.5281/zenodo.11241865"/>
+  
+  
+    <meta name="resourceURLType" content="URL"/>
+  
+  
+    <meta name="targetGroup" content="Students; PhD Students; Post docs; Laboratory staff"/>
+  
+  
+    <meta name="learningResourceType" content="Workshop"/>
+  
+  
+    <meta name="learningOutcome" content="['Describe what an electronic lab notebook is', 'Give examples of electronic lab notebooks', 'Explain advantages of an electronic lab notebook', 'Compare different electronic lab notebooks (e.g. Chemotion and Kadi4Mat)', 'Select an electronic lab notebook that fits their needs']"/>
+  
+  
+    <meta name="accessCost" content="N"/>
+  
+  
+    <meta name="expertiseLevel" content="beginner"/>
+  
+
+  <link rel="linkset" type="application/json+linkset" href="https://raw.githubusercontent.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics/1.1.0/linkset.json" >
+
+    
+      
+        <title>Electronic Lab Notebooks - Support from data acquisition to publication - Electronic Lab Notebooks (ELNs)</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.20d9efc8.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="custom" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#electronic-lab-notebooks-support-from-data-acquisition-to-publication" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Electronic Lab Notebooks (ELNs)" class="md-header__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Electronic Lab Notebooks (ELNs)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Electronic Lab Notebooks - Support from data acquisition to publication
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Electronic Lab Notebooks (ELNs)" class="md-nav__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    Electronic Lab Notebooks (ELNs)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Electronic Lab Notebooks - Support from data acquisition to publication
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Electronic Lab Notebooks - Support from data acquisition to publication
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#110-2024-05-21" class="md-nav__link">
+    1.1.0 (2024-05-21)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#100-2023-12-19" class="md-nav__link">
+    1.0.0 (2023-12-19)
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          00 Welcome
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="00 Welcome" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          00 Welcome
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="00%20Welcome/0_Welcome/" class="md-nav__link">
+        0 Welcome
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          01 Introduction to Research Data Management
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="01 Introduction to Research Data Management" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          01 Introduction to Research Data Management
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="01%20Introduction%20to%20Research%20Data%20Management/1_RDM/" class="md-nav__link">
+        1.1 Introduction to Research Data Management
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          02 Electronic Lab Notebooks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="02 Electronic Lab Notebooks" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          02 Electronic Lab Notebooks
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="02%20Electronic%20Lab%20Notebooks/2.1_Introduction_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.1 Introduction to Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="02%20Electronic%20Lab%20Notebooks/2.2_Selection_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.2 Selection of Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="02%20Electronic%20Lab%20Notebooks/2.3_Chemotion/" class="md-nav__link">
+        2.3 Example: Chemotion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="02%20Electronic%20Lab%20Notebooks/2.4_Kadi4Mat/" class="md-nav__link">
+        2.4 Example: Kadi4Mat
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          03 Conclusion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="03 Conclusion" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          03 Conclusion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="03%20Conclusion/3_Conclusion/" class="md-nav__link">
+        3 Conclusion
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#110-2024-05-21" class="md-nav__link">
+    1.1.0 (2024-05-21)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#100-2023-12-19" class="md-nav__link">
+    1.0.0 (2023-12-19)
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+  
+
+
+  <nav class="md-tags" >
+    
+      
+      
+        <span class="md-tag">Electronic Lab Notebooks</span>
+      
+    
+      
+      
+        <span class="md-tag">Chemotion</span>
+      
+    
+      
+      
+        <span class="md-tag">Kadi4Mat</span>
+      
+    
+      
+      
+        <span class="md-tag">ELN Finder</span>
+      
+    
+  </nav>
+
+
+
+
+<h1 id="electronic-lab-notebooks-support-from-data-acquisition-to-publication">Electronic Lab Notebooks - Support from data acquisition to publication</h1>
+<details>
+<summary>Release Notes</summary>
+<h2 id="110-2024-05-21">1.1.0 (2024-05-21)</h2>
+<p><strong>Technical and style updates:</strong></p>
+<ul>
+<li>Update based on the updates of the forked <a href="https://github.com/FAIR-by-Design-Methodology/templates">FAIR-by-design template</a> that can also be found in the Release Notes of the <a href="https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/">FAIR-by-design Training of Trainers</a> v1.1.0.</li>
+<li>Release Notes added to the syllabus.</li>
+<li>Added "admonition" to enable the use of info boxes. KIT-specific information as well as exercises and summaries are now presented as info boxes.</li>
+<li>Footnotes added.</li>
+<li>Tabs added.</li>
+</ul>
+<p><strong>Content updates:</strong></p>
+<ul>
+<li>Split section "2.1 Introduction" into two sections: "2.1 Introduction" and "2.2 Selection of ELNs".</li>
+<li>Section "03 Conclusion" added.</li>
+<li>Updates on the difference between ELN and LIMS, the advantages of ELNs and Kadi4Mat.</li>
+<li>Added video on Chemotion from Youtube.</li>
+<li>Update on Welcome section.</li>
+<li>Update on Facilitator Guide and Lessons Plan.</li>
+</ul>
+<h2 id="100-2023-12-19">1.0.0 (2023-12-19)</h2>
+<ul>
+<li>Initial release of the materials.</li>
+</ul>
+</details>
+<h1 id="type-online-course">Type: Online Course</h1>
+<h2 id="datetime">Date/Time</h2>
+<ul>
+<li>none</li>
+</ul>
+<h2 id="location">Location</h2>
+<ul>
+<li>none</li>
+</ul>
+<h2 id="training-description">Training Description</h2>
+<p>Laboratory notebooks play an important role in <strong>planning, conducting and analysing scientific experiments</strong>. Due to digitalisation, electronic versions of the classic laboratory notebooks are becoming more and more common. These <strong>Electronic Lab Notebooks (ELNs)</strong> have the advantage that they can be connected directly to measuring devices, analysis programs or storage systems, making results easier to understand and research more efficient. In this module you will learn the basics of ELNs, we will support you in selecting the right ELN for your research. Two ELNs (Chemotion and Kadi4Mat) are presented for self-testing.</p>
+<p><strong>Content:</strong></p>
+<ul>
+<li>Basics of Electronic Laboratory Notebooks (ELNs)</li>
+<li>Benefits of ELNs</li>
+<li>Assistance in selecting suitable ELNs</li>
+<li>Practical examples: Chemotion and Kadi4Mat</li>
+</ul>
+<h2 id="target-audience">Target audience:</h2>
+<ul>
+<li>Students</li>
+<li>PhD Students</li>
+<li>Post docs</li>
+<li>Laboratory staff</li>
+</ul>
+<h2 id="expertise-level-skill-level">Expertise Level / Skill Level:</h2>
+<ul>
+<li>Beginner</li>
+</ul>
+<h2 id="primary-language">Primary Language:</h2>
+<ul>
+<li>English</li>
+</ul>
+<h2 id="access-cost">Access Cost:</h2>
+<ul>
+<li>N</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>No prior knowledge is required to follow the training.</li>
+</ul>
+<h2 id="duration">Duration</h2>
+<ul>
+<li>1.5 hours</li>
+</ul>
+<h2 id="training-objectives">Training objectives</h2>
+<p>At the end of the training the learners can ...</p>
+<ul>
+<li><strong>Describe</strong> what an electronic lab notebook is</li>
+<li><strong>Give examples</strong> of electronic lab notebooks</li>
+<li><strong>Explain</strong> advantages of an electronic lab notebook</li>
+<li><strong>Compare</strong> different electronic lab notebooks (e.g. Chemotion and Kadi4Mat)</li>
+<li><strong>Select</strong> an electronic lab notebook that fits their needs</li>
+</ul>
+<h2 id="keywords">Keywords</h2>
+<ul>
+<li>Electronic Lab Notebooks</li>
+<li>Chemotion </li>
+<li>Kadi4Mat</li>
+</ul>
+<h2 id="agenda-training-schedule-training-structure">Agenda: Training Schedule - Training Structure</h2>
+<table>
+<thead>
+<tr>
+<th>Date/Time</th>
+<th>Topic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5 min</td>
+<td>Check-in</td>
+</tr>
+<tr>
+<td>5 min</td>
+<td>Welcome (Section 0)</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Introduction to Research Data Management (Section 1)</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Introduction to Electronic Lab Notebooks (Section 2.1)</td>
+</tr>
+<tr>
+<td>10 min</td>
+<td>Selection of Electronic Lab Notebooks (Section 2.2)</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Chemotion (Section 2.3)</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Kadi4Mat (Section 2.4)</td>
+</tr>
+<tr>
+<td>5 min</td>
+<td>Conclusion and further questions</td>
+</tr>
+<tr>
+<td>5 min</td>
+<td>Evaluation of the training</td>
+</tr>
+<tr>
+<td>-</td>
+<td>End</td>
+</tr>
+</tbody>
+</table>
+<h2 id="resources-and-materials">Resources and Materials</h2>
+<ul>
+<li><a href="https://kit-training-electronic-lab-notebooks.github.io/Electronic-Lab-Notebooks-Basics/latest/">GitBook</a></li>
+<li><a href="https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics">GitHub</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.11241865">Zenodo Publication</a></li>
+</ul>
+<h2 id="certification-information">Certification Information</h2>
+<ul>
+<li>none</li>
+</ul>
+<h2 id="authors">Author(s)</h2>
+<ul>
+<li>Carolin Leister</li>
+</ul>
+<h2 id="trainers">Trainer(s)</h2>
+<ul>
+<li>Carolin Leister <a href="https://orcid.org/0000-0002-6940-0024"><img alt="ORCID logo" src="attachments/orcid_16x16.webp" /></a></li>
+</ul>
+<h2 id="contact-information">Contact information</h2>
+<ul>
+<li>For more information regarding the training please contact <a href="mailto: carolin.leister@kit.edu">Carolin Leister</a></li>
+</ul>
+<h2 id="license">License</h2>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<h2 id="doi">DOI</h2>
+<p><a href="https://doi.org/10.5281/zenodo.11241865">https://doi.org/10.5281/zenodo.11241865</a></p>
+<h2 id="accessibility-mission">Accessibility Mission</h2>
+<p>MoMaF is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).</p>
+<h3 id="acknowledgement">Acknowledgement</h3>
+<p>These learning materials have been developed by following the <a href="https://doi.org/10.5281/zenodo.7875540">Skills4EOSC FAIR-by-Design Methodology</a> and are part of the <a href="https://momaf.scc.kit.edu/">Science Data Center for Molecular Materials Research (MoMaF)</a>.</p>
+<p><img alt="" src="attachments/momaf_logo.svg" /></p>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  
+  
+  
+  
+  <nav class="md-footer__inner md-grid" aria-label="" >
+    
+    
+    
+    <a href="00%20Welcome/0_Welcome/" class="md-footer__link md-footer__link--next"
+      aria-label="Next: 0 Welcome" rel="next">
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Next
+        </span>
+        <div class="md-ellipsis">
+          0 Welcome
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center">
+      
+        <div class="md-copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+              alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/a9f9eb58f58a4c39a32609c160ca52922c41fc2a/resources/attachments/cc-by.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>.
+        </div>
+      
+      </div>
+
+    </div>
+      <div class="cite-example md-copyright">
+        <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
+          Cite as:
+          
+            
+            
+            
+              Leister, Carolin.
+            
+          
+          (2024). Electronic Lab Notebooks - Support from data acquisition to publication (1.1.0). 
+          <a href="https://doi.org/10.5281/zenodo.11241865">&nbsp;https://doi.org/10.5281/zenodo.11241865</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.footer", "content.tooltips", "search.highlight", "search.suggest"], "search": "assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.8492ddcf.min.js"></script>
+      
+    
+  </body>
+</html>

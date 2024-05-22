@@ -1,0 +1,1048 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="['Carolin Leister']">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-8.5.7">
+    
+  
+    <meta name="title" content="2.4 Example: Kadi4Mat"/>
+  
+  
+    <meta name="tags" content="['Kadi4Mat']"/>
+  
+
+    
+      
+        <title>2.4 Example: Kadi4Mat - Electronic Lab Notebooks (ELNs)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.20d9efc8.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="custom" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#24-example-kadi4mat" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Electronic Lab Notebooks (ELNs)" class="md-header__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="../../attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Electronic Lab Notebooks (ELNs)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              2.4 Example: Kadi4Mat
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Electronic Lab Notebooks (ELNs)" class="md-nav__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="../../attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    Electronic Lab Notebooks (ELNs)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Electronic Lab Notebooks - Support from data acquisition to publication
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          00 Welcome
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="00 Welcome" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          00 Welcome
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../00%20Welcome/0_Welcome/" class="md-nav__link">
+        0 Welcome
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          01 Introduction to Research Data Management
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="01 Introduction to Research Data Management" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          01 Introduction to Research Data Management
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20Introduction%20to%20Research%20Data%20Management/1_RDM/" class="md-nav__link">
+        1.1 Introduction to Research Data Management
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          02 Electronic Lab Notebooks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="02 Electronic Lab Notebooks" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          02 Electronic Lab Notebooks
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.1_Introduction_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.1 Introduction to Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.2_Selection_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.2 Selection of Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.3_Chemotion/" class="md-nav__link">
+        2.3 Example: Chemotion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          2.4 Example: Kadi4Mat
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        2.4 Example: Kadi4Mat
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#syllabus-elements" class="md-nav__link">
+    Syllabus Elements
+  </a>
+  
+    <nav class="md-nav" aria-label="Syllabus Elements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning Objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#target-audience" class="md-nav__link">
+    Target Audience
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duration" class="md-nav__link">
+    Duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    Prerequisites
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-tools" class="md-nav__link">
+    Learning Tools
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example-kadi4mat" class="md-nav__link">
+    Example: Kadi4Mat
+  </a>
+  
+    <nav class="md-nav" aria-label="Example: Kadi4Mat">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-kadi4mat" class="md-nav__link">
+    What is Kadi4Mat?
+  </a>
+  
+    <nav class="md-nav" aria-label="What is Kadi4Mat?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#components" class="md-nav__link">
+    Components
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hands-on-kadi4mat" class="md-nav__link">
+    Hands-on Kadi4Mat
+  </a>
+  
+    <nav class="md-nav" aria-label="Hands-on Kadi4Mat">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kadiweb" class="md-nav__link">
+    KadiWeb
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kadistudio" class="md-nav__link">
+    KadiStudio
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+    <nav class="md-nav" aria-label="References">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#further-information" class="md-nav__link">
+    Further information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#suggested-reading" class="md-nav__link">
+    Suggested reading
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          03 Conclusion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="03 Conclusion" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          03 Conclusion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20Conclusion/3_Conclusion/" class="md-nav__link">
+        3 Conclusion
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#syllabus-elements" class="md-nav__link">
+    Syllabus Elements
+  </a>
+  
+    <nav class="md-nav" aria-label="Syllabus Elements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning Objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#target-audience" class="md-nav__link">
+    Target Audience
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duration" class="md-nav__link">
+    Duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    Prerequisites
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-tools" class="md-nav__link">
+    Learning Tools
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example-kadi4mat" class="md-nav__link">
+    Example: Kadi4Mat
+  </a>
+  
+    <nav class="md-nav" aria-label="Example: Kadi4Mat">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-kadi4mat" class="md-nav__link">
+    What is Kadi4Mat?
+  </a>
+  
+    <nav class="md-nav" aria-label="What is Kadi4Mat?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#components" class="md-nav__link">
+    Components
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hands-on-kadi4mat" class="md-nav__link">
+    Hands-on Kadi4Mat
+  </a>
+  
+    <nav class="md-nav" aria-label="Hands-on Kadi4Mat">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kadiweb" class="md-nav__link">
+    KadiWeb
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kadistudio" class="md-nav__link">
+    KadiStudio
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+    <nav class="md-nav" aria-label="References">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#further-information" class="md-nav__link">
+    Further information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#suggested-reading" class="md-nav__link">
+    Suggested reading
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+  <nav class="md-tags" >
+    
+      
+      
+        <span class="md-tag">Kadi4Mat</span>
+      
+    
+  </nav>
+
+
+
+
+<h1 id="24-example-kadi4mat">2.4 Example: Kadi4Mat</h1>
+<blockquote>
+<p>The content in this section is adapted from <a href="https://www.rdm.kit.edu/english/servicestools_tools_kadi4mat.php">RDM@KIT</a>.</p>
+</blockquote>
+<div class="admonition quote">
+<p><a href="https://kadi.iam.kit.edu/">Kadi4Mat</a> (Karlsruhe Data Infrastructure for Materials Science) is a <strong>virtual research environment (VRE)</strong> that is developed at KIT. It is used for the administration and analysis of research data from the research areas of <strong>materials science and macromolecular chemistry</strong>, but can also be used for other disciplines. Kadi4Mat is based on <strong>open source software</strong>. The <strong>modular and generic architecture</strong> with many interfaces makes it possible to meet the specific needs of different scientists from different research disciplines. Kadi4Mat is one of the tools of the <a href="https://nfdi4ing.de/community-hub-2/">NFDI4Ing</a>.</p>
+</div>
+<hr />
+<h2 id="syllabus-elements">Syllabus Elements</h2>
+<h3 id="learning-objectives">Learning Objectives</h3>
+<p>At the end of the section the learners can ...</p>
+<ul>
+<li><strong>Recognizes</strong> basic elements in the program Kadi4Mat</li>
+<li><strong>Define</strong> use cases for Kadi4Mat </li>
+<li><strong>Determine</strong> whether Kadi4Mat is suitable for them</li>
+<li><strong>Knows</strong> where to get further information on Kadi4Mat</li>
+</ul>
+<h3 id="target-audience">Target Audience</h3>
+<ul>
+<li>attendees of this course</li>
+</ul>
+<h3 id="duration">Duration</h3>
+<ul>
+<li>15 minutes</li>
+</ul>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li>Complete <a href="../2.1_Introduction_Electronic_Lab_Notebooks/">2.1 Introduction to Electronic Lab Notebooks</a></li>
+</ul>
+<h3 id="learning-tools">Learning Tools</h3>
+<ul>
+<li><a href="https://kadi.iam.kit.edu/">Kadi4Mat</a></li>
+</ul>
+<hr />
+<h2 id="example-kadi4mat">Example: Kadi4Mat</h2>
+<p><a class="md-button md-button--primary" href="https://kadi.iam.kit.edu/">Go to Kadi4Mat</a></p>
+<h3 id="what-is-kadi4mat">What is Kadi4Mat?</h3>
+<ul>
+<li><a href="https://kadi.iam.kit.edu/">Kadi4Mat</a> stands for "<em>Karlsruhe Data Infrastructure for Materials Science</em>"</li>
+<li>Open Source Software</li>
+<li>Developed at the <a href="https://www.iam.kit.edu/mms/">Institute for Applied Materials (IAM)</a> at KIT</li>
+<li>Generic ELN, originally from the field of Material Science but can be used from various disciplines</li>
+<li>One of the tools of the National Research Data Infrastructure for Engineering (<a href="https://nfdi4ing.de/de/">NFDI4Ing</a>)</li>
+<li>Uses a lot of interfaces to various programs</li>
+</ul>
+<blockquote>
+<p>The logo is used from <a href="https://doi.org/10.5334/dsj-2021-008">Brandt et al. (2021)</a> licenced unter <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>.</p>
+</blockquote>
+<figure>
+  <img alt="Logo of Kadi4Mat" src="../attachments/Kadi4Mat_Logo.png" width="250" />
+  <figcaption>Logo of Kadi4Mat</figcaption>
+</figure>
+<blockquote>
+<p>The following section is adapted from <a href="https://kadi.iam.kit.edu/">Kadi4Mat</a>.</p>
+</blockquote>
+<p>The goal of this project is to combine the ability to manage and exchange data, the <em>repository</em> component, with the possibility to analyze, visualize and transform said data, the <em>electronic lab notebook</em> (<em>ELN</em>) component.</p>
+<h4 id="components">Components</h4>
+<blockquote>
+<p>The following section is adapted from <a href="https://kadi.iam.kit.edu/#ecosystem">Kadi4Mat</a>.</p>
+</blockquote>
+<ul>
+<li><strong>KadiWeb</strong>: A web version of Kadi4Mat incorporating a classical ELN and a repository.</li>
+<li><strong>KadiStudio</strong>: Design and execute your scientific workflows with KadiStudio, a flexible workflow editor. Use a wide range of existing or customized tools to create reproducible research.</li>
+<li><strong>KadiAPY:</strong> A wrapper library called KadiAPY offers access to Kadi4Mat's HTTP API via Python, which follows an object oriented approach, and a Command Line Interface (CLI), as shown below. The library supports both Linux and Windows.</li>
+<li><strong>KadiFS:</strong> Access and edit your data directly with the filesystem integration KadiFS based on FUSE. Connect your computers and devices to directly interface with the Kadi ecosystem.</li>
+<li><strong>KadiAI:</strong> Integrate and implement your Artificial Intelligence (AI) and Machine Learning (ML) algorithms with KadiAI. Leverage interactive dashboards to design, train, and tune data-driven models or enhance your custom AI scripts with next-level research data management.</li>
+</ul>
+<blockquote>
+<p>The following figure is used from <a href="https://doi.org/10.5334/dsj-2022-016">Griem et al. (2022)</a> licenced unter <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>.</p>
+</blockquote>
+<figure>
+ <img alt="Conceptual overview of Kadi4Mat" src="../attachments/Kadi4Mat_Components.png" width="500" />
+  <figcaption>Conceptual overview of Kadi4Mat. Currently two software modules are available: (1) KadiWeb, a web-based virtual research environment incorporating ELN functionalities and repositories and (2) KadiStudio, a desktop-based software version which allows for the formulation and execution of workflows. Further modules such as a machine learning implementation referred to as KadiAI and a desktop-based repository called KadiFS are subject of current developments.</figcaption>
+</figure>
+<h4 id="hands-on-kadi4mat">Hands-on Kadi4Mat</h4>
+<h5 id="kadiweb">KadiWeb</h5>
+<ul>
+<li>Go to the <a href="https://kadi.iam.kit.edu/">Website</a> to the section <a href="https://kadi.iam.kit.edu/#instances">Instances</a> and choose the <a href="https://demo-kadi4mat.iam.kit.edu">Demo version</a>
+<img alt="Hands-on Kadi4Mat 00" src="../attachments/Hands-on_Kadi4Mat_00.png" /></li>
+<li>Create an account and then <code>Login</code></li>
+<li>Create a record. Therefore click on <code>Records</code> and then on <code>Create record</code>
+<img alt="Hands-on Kadi4Mat 01" src="../attachments/Hands-on_Kadi4Mat_01.png" /></li>
+<li>No you can add your metadata like <code>Title</code>, <code>Type</code>, <code>Licence</code>, as well as Extra metadata.
+<img alt="Hands-on Kadi4Mat 02" src="../attachments/Hands-on_Kadi4Mat_02.png" /></li>
+<li>You can then also add files and data to your record, as well as connect them with other records, like experiments.</li>
+<li>If you want to build for example a car with LEGO, you can create multiple records and then collect them, to show, how to build a car. This connection can then be seen by clicking on <code>Links</code>.
+ <img alt="Hands-on Kadi4Mat 03" src="../attachments/Hands-on_Kadi4Mat_LEGO.png" /></li>
+</ul>
+<h5 id="kadistudio">KadiStudio</h5>
+<p>KadiStudio is a desktop based version of Kadi4Mat. Here you can add automatically data from your deviced. Then you can design Workflows that may include Python skripts for the analysis of your data.</p>
+<p><img alt="Hands-on KadiStudio 00" src="../attachments/Hands-on_Kadi4Mat_03.png" /></p>
+<h2 id="summary">Summary</h2>
+<div class="admonition quote">
+<ul>
+<li>Kadi4Mat is <strong>virtual research environment (VRE)</strong> that is developed at KIT</li>
+<li>It is used for the <strong>administration and analysis of research data</strong> from the research areas of <strong>materials science and macromolecular chemistry, but can also be used for other disciplines</strong>.</li>
+</ul>
+</div>
+<h2 id="references">References</h2>
+<h3 id="further-information">Further information</h3>
+<ul>
+<li>More information: <a href="https://kadi.iam.kit.edu">https://kadi.iam.kit.edu</a></li>
+<li>Source code: <a href="https://gitlab.com/iam-cms/kadi">https://gitlab.com/iam-cms/kadi</a></li>
+<li>Documentation:<ul>
+<li>Stable (reflecting the latest release): <a href="https://kadi4mat.readthedocs.io/en/stable">https://kadi4mat.readthedocs.io/en/stable</a></li>
+<li>Latest (reflecting the current state): <a href="https://kadi4mat.readthedocs.io/en/latest">https://kadi4mat.readthedocs.io/en/latest</a></li>
+</ul>
+</li>
+<li><a href="https://kadi.iam.kit.edu/#contact">Contact</a></li>
+<li>Want to test Kadi4Mat? Try the <a href="https://demo-kadi4mat.iam-cms.kit.edu/">demo</a> <a href="https://demo-kadi4mat.iam-cms.kit.edu/">instance</a>!</li>
+<li>Kadi4Mat in the <a href="https://helmholtz.software/software/kadi4mat">Helmholtz Research Software Directory</a></li>
+<li>Kadi4Mat in the <a href="https://eln-finder.ulb.tu-darmstadt.de/items/77f23b65-e027-48f4-859a-3a72dafd73af">ELN Finder</a></li>
+<li>Use of Kadi4Mat at the <a href="https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e6eed9d2-fcd8-4c25-a306-aebd0146a59b">Division MFM (TU Darmstadt)</a> (Video)</li>
+<li>Use of Kadi4Mat in <a href="https://www.postlithiumstorage.org/en/research/rdm">POLiS</a> (Video)</li>
+</ul>
+<h3 id="suggested-reading">Suggested reading</h3>
+<ul>
+<li>Brandt et al. (2021): Kadi4Mat: A Research Data Infrastructure for Materials Science. In: Data Science Journal 20, Artikel 8. DOI: <a href="https://doi.org/10.5334/dsj-2021-008" title="Artikel, Brandt et al.: Kadi4Mat">https://doi.org/10.5334/dsj-2021-008</a>.</li>
+<li>Griem et al. (2022): KadiStudio: FAIR Modelling of Scientific Research Processes. In: Data Science Journal 21, Artikel 16. DOI: <a href="https://doi.org/10.5334/dsj-2022-016">https://doi.org/10.5334/dsj-2022-016</a>.</li>
+</ul>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  
+  
+  <nav class="md-footer__inner md-grid" aria-label="" >
+    
+    
+    <a href="../2.3_Chemotion/" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: 2.3 Example: Chemotion" rel="prev">
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </div>
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Previous
+        </span>
+        <div class="md-ellipsis">
+          2.3 Example: Chemotion
+        </div>
+      </div>
+    </a>
+    
+    
+    
+    <a href="../../03%20Conclusion/3_Conclusion/" class="md-footer__link md-footer__link--next"
+      aria-label="Next: 3 Conclusion" rel="next">
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Next
+        </span>
+        <div class="md-ellipsis">
+          3 Conclusion
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center">
+      
+        <div class="md-copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+              alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/a9f9eb58f58a4c39a32609c160ca52922c41fc2a/resources/attachments/cc-by.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>.
+        </div>
+      
+      </div>
+
+    </div>
+      <div class="cite-example md-copyright">
+        <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
+          Cite as:
+          
+            
+            
+            
+              Leister, Carolin.
+            
+          
+          (2024). Electronic Lab Notebooks - Support from data acquisition to publication (1.1.0). 
+          <a href="https://doi.org/10.5281/zenodo.11241865">&nbsp;https://doi.org/10.5281/zenodo.11241865</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "content.tooltips", "search.highlight", "search.suggest"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.8492ddcf.min.js"></script>
+      
+    
+  </body>
+</html>
