@@ -68,7 +68,7 @@ citation:
     - Kadi4Mat
     - ELN Finder
   repository: "https://github.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics"
-signposting_linkset: https://raw.githubusercontent.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics/1.1.0/linkset.json # do not update manually
+signposting_linkset: https://raw.githubusercontent.com/KIT-Training-Electronic-Lab-Notebooks/Electronic-Lab-Notebooks-Basics/main/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)
 # signposting_gitbook_url: https://gitbook.example.com # leave commented (prefixed with `#`) if using GitHub Pages with the default domain.
 signposting_exclusions:
