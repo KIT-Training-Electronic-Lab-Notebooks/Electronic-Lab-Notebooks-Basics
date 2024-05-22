@@ -1,0 +1,1052 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="['Carolin Leister']">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-8.5.7">
+    
+  
+    <meta name="title" content="2.3 Example: Chemotion"/>
+  
+  
+    <meta name="tags" content="['Chemotion', 'LabIMotion']"/>
+  
+
+    
+      
+        <title>2.3 Example: Chemotion - Electronic Lab Notebooks (ELNs)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.20d9efc8.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="custom" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#23-example-chemotion" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Electronic Lab Notebooks (ELNs)" class="md-header__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="../../attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Electronic Lab Notebooks (ELNs)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              2.3 Example: Chemotion
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Electronic Lab Notebooks (ELNs)" class="md-nav__button md-logo" aria-label="Electronic Lab Notebooks (ELNs)" data-md-component="logo">
+      
+  <img src="../../attachments/kitlogo_en_rgb.png" alt="logo">
+
+    </a>
+    Electronic Lab Notebooks (ELNs)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Electronic Lab Notebooks - Support from data acquisition to publication
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          00 Welcome
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="00 Welcome" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          00 Welcome
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../00%20Welcome/0_Welcome/" class="md-nav__link">
+        0 Welcome
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          01 Introduction to Research Data Management
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="01 Introduction to Research Data Management" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          01 Introduction to Research Data Management
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01%20Introduction%20to%20Research%20Data%20Management/1_RDM/" class="md-nav__link">
+        1.1 Introduction to Research Data Management
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          02 Electronic Lab Notebooks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="02 Electronic Lab Notebooks" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          02 Electronic Lab Notebooks
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.1_Introduction_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.1 Introduction to Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.2_Selection_Electronic_Lab_Notebooks/" class="md-nav__link">
+        2.2 Selection of Electronic Lab Notebooks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          2.3 Example: Chemotion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        2.3 Example: Chemotion
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#syllabus-elements" class="md-nav__link">
+    Syllabus Elements
+  </a>
+  
+    <nav class="md-nav" aria-label="Syllabus Elements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning Objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#target-audience" class="md-nav__link">
+    Target Audience
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duration" class="md-nav__link">
+    Duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    Prerequisites
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-tools" class="md-nav__link">
+    Learning Tools
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example-chemotion" class="md-nav__link">
+    Example: Chemotion
+  </a>
+  
+    <nav class="md-nav" aria-label="Example: Chemotion">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-chemotion" class="md-nav__link">
+    What is Chemotion?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chemotion-eln" class="md-nav__link">
+    Chemotion ELN
+  </a>
+  
+    <nav class="md-nav" aria-label="Chemotion ELN">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hands-on-chemotion-eln" class="md-nav__link">
+    Hands-on Chemotion ELN
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+    <nav class="md-nav" aria-label="References">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#further-information" class="md-nav__link">
+    Further information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#suggested-reading" class="md-nav__link">
+    Suggested reading
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.4_Kadi4Mat/" class="md-nav__link">
+        2.4 Example: Kadi4Mat
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          03 Conclusion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="03 Conclusion" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          03 Conclusion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03%20Conclusion/3_Conclusion/" class="md-nav__link">
+        3 Conclusion
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#syllabus-elements" class="md-nav__link">
+    Syllabus Elements
+  </a>
+  
+    <nav class="md-nav" aria-label="Syllabus Elements">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning Objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#target-audience" class="md-nav__link">
+    Target Audience
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duration" class="md-nav__link">
+    Duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    Prerequisites
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-tools" class="md-nav__link">
+    Learning Tools
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example-chemotion" class="md-nav__link">
+    Example: Chemotion
+  </a>
+  
+    <nav class="md-nav" aria-label="Example: Chemotion">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-chemotion" class="md-nav__link">
+    What is Chemotion?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chemotion-eln" class="md-nav__link">
+    Chemotion ELN
+  </a>
+  
+    <nav class="md-nav" aria-label="Chemotion ELN">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hands-on-chemotion-eln" class="md-nav__link">
+    Hands-on Chemotion ELN
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+    <nav class="md-nav" aria-label="References">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#further-information" class="md-nav__link">
+    Further information
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#suggested-reading" class="md-nav__link">
+    Suggested reading
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+  <nav class="md-tags" >
+    
+      
+      
+        <span class="md-tag">Chemotion</span>
+      
+    
+      
+      
+        <span class="md-tag">LabIMotion</span>
+      
+    
+  </nav>
+
+
+
+
+<h1 id="23-example-chemotion">2.3 Example: Chemotion</h1>
+<blockquote>
+<p>The content in this section is adapted from <a href="https://www.rdm.kit.edu/english/servicestools_tools_chemotion.php">RDM@KIT</a>.</p>
+</blockquote>
+<div class="admonition quote">
+<p><a href="https://www.chemotion-repository.net/home/welcome">Chemotion</a> offers a <strong>free-to-use infrastructure and open source software for the management of research data, especially for chemists and related sciences</strong>.</p>
+<p>Chemotion includes a suite consisting of an <a href="https://www.rdm.kit.edu/english/researchdata_rdm_eln.php">electronic laboratory notebook</a> (<a href="https://www.chemotion.net/">Chemotion ELN</a>), a <a href="https://doi.org/10.17616/R34P5T">web repository</a> and helpful tools. The goal is to simplify routine work with molecular data, thus increasing the amount of open data and improving the quality of the information obtained and published.  </p>
+<p>The software is increasingly being extended to related fields and further developed into a generic ELN (“<a href="https://chemotion.net/docs/labimotion">LabIMotion</a>”). You can find more information about Chemotion on the <a href="https://www.chemotion.net/">website</a>, as well as via <a href="https://www.nfdi4chem.de/setup-own-eln/">NFDI4Chem</a>, which regularly holds events such as <a href="https://www.nfdi4chem.de/events/">Q&amp;As and hands-on workshops</a>, and via the <a href="https://www.youtube.com/@chemotioneln9781?cbrd=1&amp;ucbcb=1">Chemotion ELN YouTube channel</a>.</p>
+</div>
+<hr />
+<h2 id="syllabus-elements">Syllabus Elements</h2>
+<h3 id="learning-objectives">Learning Objectives</h3>
+<p>At the end of the section the learners can ...</p>
+<ul>
+<li><strong>Recognizes</strong> basic elements in the program Chemotion</li>
+<li><strong>Define</strong> use cases for Chemotion </li>
+<li><strong>Determine</strong> whether Chemotion is suitable for them</li>
+<li><strong>Knows</strong> where to get further information on Chemotion</li>
+</ul>
+<h3 id="target-audience">Target Audience</h3>
+<ul>
+<li>attendees of this course</li>
+</ul>
+<h3 id="duration">Duration</h3>
+<ul>
+<li>15 minutes</li>
+</ul>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li>Complete <a href="../2.1_Introduction_Electronic_Lab_Notebooks/">2.1 Introduction to Electronic Lab Notebooks</a></li>
+</ul>
+<h3 id="learning-tools">Learning Tools</h3>
+<ul>
+<li><a href="https://www.chemotion.net/">Chemotion</a></li>
+</ul>
+<hr />
+<h2 id="example-chemotion">Example: Chemotion</h2>
+<p><a class="md-button md-button--primary" href="https://www.chemotion.net/docs/eln">Go to Chemotion ELN</a></p>
+<h3 id="what-is-chemotion">What is Chemotion?</h3>
+<ul>
+<li><a href="https://www.chemotion.net/">Chemotion</a>  is an Electronic Laboratory Notebook (ELN) &amp; Repository for Research Data<ul>
+<li><a href="https://www.chemotion.net/docs/eln">Chemotion ELN</a> - an electronic laboratory notebook (ELN)</li>
+<li><a href="https://www.chemotion.net/docs/repo">Chemotion Repository</a> - a data repository</li>
+</ul>
+</li>
+<li>Subject-specific for Chemistry and related fields</li>
+<li>Open Source Software</li>
+<li>Developed at Institute of Organic Chemistry (IOC) / Institute of Biological and Chemical Systems – Functional Molecular Systems (IBCS-FMS) at KIT</li>
+<li>Connected repository for publication of data</li>
+<li><a href="https://www.nfdi4chem.de/index.php/setup-own-eln/">Recommended ELN</a> of the <a href="https://www.nfdi4chem.de/">National Research Data Infrastructure for Chemistry (NFDI4Chem)</a></li>
+</ul>
+<h3 id="chemotion-eln">Chemotion ELN</h3>
+<blockquote>
+<p>The information in this section is adapted from <a href="https://doi.org/10.5281/zenodo.7634481">Fink et al. (2023): Chemotion ELN Instruction Videos</a> licenced under <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.</p>
+</blockquote>
+<ul>
+<li>
+<p>You can store in the ELN</p>
+<ul>
+<li>Experimental instructions</li>
+<li>Structures (Samples)</li>
+<li>Reactions</li>
+<li>Analytical data</li>
+<li>Access to your working groups shared list of chemicals (<a href="https://www.chemotion.net/docs/eln/ui/inventory">Inventory</a>)</li>
+</ul>
+</li>
+<li>
+<p>Further functions:</p>
+<ul>
+<li><a href="https://www.chemotion.net/docs/eln/ui/barcodes">Barcode and QR code generation</a> for example for Bruker instruments</li>
+<li><a href="https://www.chemotion.net/docs/eln/ui/ontology">Ontologies implementation</a> (RXNO, CHMO)</li>
+<li><a href="https://www.chemotion.net/docs/eln/ui/calendar">Calender function</a></li>
+<li><a href="https://www.chemotion.net/docs/eln/ui/images">Image editing and annotation</a></li>
+<li>...</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>This video is used from <a href="https://www.youtube.com/@chemotioneln9781">Chemotion ELN</a> published as <a href="https://doi.org/10.5281/zenodo.7634481">Fink et al. (2023): Chemotion ELN Instruction Videos</a> licenced under <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.</p>
+</blockquote>
+<p>First instructional video on Chemotion can be found on <a href="https://www.youtube.com/watch?v=MnOcKV-MTTg&amp;list=PL1AonKd9WAd8cDjzXGiNu0ndoctNu0izs">Youtube</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MnOcKV-MTTg?si=_1hMw7xNfkCynHw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4 id="hands-on-chemotion-eln">Hands-on Chemotion ELN</h4>
+<ul>
+<li>Go to the <a href="https://demo.chemotion.ibcs.kit.edu/home">Demo version</a> of Chemotion ELN</li>
+<li>Click on <code>Sign up</code> to create an account for the Demo version</li>
+<li><strong>Create a collection</strong> with your favorite name (e.g. 'My Lab Notebook')</li>
+</ul>
+<p><img alt="Chemotion - How to create a collection" src="../attachments/Hands-on_Chemotion_01.png" /></p>
+<ul>
+<li><strong>Add a sample</strong> by using the molecule structure editor Ketcher<ul>
+<li>Click on your new collection and then on the blue arrow near the <code>+</code> and <code>Create sample</code></li>
+<li>Then click in the Editor field</li>
+<li>Scetch your desired chemical structure</li>
+<li>Do not forget to save your sample! Therefore click on the blue <code>Save</code>-Button, and then on the yellow <code>Save sample</code>-Button</li>
+</ul>
+</li>
+</ul>
+<p><img alt="" src="../attachments/Hands-on_Chemotion_02.png" />
+<img alt="" src="../attachments/Hands-on_Chemotion_03.png" />
+<img alt="" src="../attachments/Hands-on_Chemotion_04.png" /></p>
+<ul>
+<li><strong>Add additonal information</strong> on your molecule<ul>
+<li>Click on your molecule and on <code>CaL-1</code></li>
+<li>Then add additional information like <code>Amount</code>, <code>Density</code>, <code>Molarity</code>, <code>Concentration</code>, <code>Solvents</code> <code>Boiling point</code> and so on.</li>
+<li>Note: Adding the <code>Density</code> or the <code>Molarity</code> is essential. Automatic calculation of the mass (by volume)</li>
+<li>Further down you can find the automatically generated SMILES and InChI codes</li>
+<li>In the <code>Analysis</code>-Section you can add Analysis like NMR data</li>
+<li>You can also add Literature by the DOI in the <code>Literature</code>-Section</li>
+<li>For more information click <a href="https://www.chemotion.net/docs/eln/ui/details_modal">here</a>.</li>
+</ul>
+</li>
+</ul>
+<p><img alt="" src="../attachments/Hands-on_Chemotion_05.png" /></p>
+<p>You can also add reactions and analysis and much more. When you want to publish your data you can do this directly in the <a href="https://www.chemotion-repository.net/welcome">Chemotion Repository</a>.</p>
+<h2 id="summary">Summary</h2>
+<div class="admonition quote">
+<ul>
+<li>Chemotion is an <strong>Electronic Lab Notebook</strong> and <strong>Repository</strong> for <strong>Chemistry Data</strong>.</li>
+<li>It is an Open Source Software, developped at KIT.</li>
+<li>It is being extended to related fields and further developed into a generic ELN (“<a href="https://chemotion.net/docs/labimotion">LabIMotion</a>”).</li>
+</ul>
+</div>
+<h2 id="references">References</h2>
+<h3 id="further-information">Further information</h3>
+<ul>
+<li>Upcoming events on Chemotion ELN<ul>
+<li><a href="https://www.nfdi4chem.de/index.php/event/chemotion-eln-hands-on-workshop/">Hands-on Workshop</a></li>
+<li><a href="https://www.nfdi4chem.de/index.php/event/chemotion-eln-qa-session/">Q&amp;A Session</a></li>
+<li><a href="[NFDI4Chem Stammtisch](https://www.nfdi4chem.de/index.php/nfdi4chem-stammtisch/)">NFDI4Chem Stammtisch</a></li>
+</ul>
+</li>
+<li>Upcoming events on LabIMotion<ul>
+<li><a href="https://www.nfdi4chem.de/event/labimotion-online-hands-on-workshop/">Hands-on Workshop</a></li>
+</ul>
+</li>
+<li>
+<p>More information</p>
+<ul>
+<li><a href="https://www.youtube.com/@chemotioneln9781">YouTube-Videos</a></li>
+<li><a href="https://www.nfdi4chem.de/index.php/setup-own-eln/">How to set up your own Chemotion ELN</a></li>
+<li><a href="https://github.com/ComPlat/chemotion_ELN">Source Code on GitHub</a></li>
+<li><a href="https://chemotion.net/docs/">Documentation</a></li>
+<li>Chemotion in the <a href="https://eln-finder.ulb.tu-darmstadt.de/items/e234d033-9718-41dd-9a4c-1cf6963b2dd2">ELN Finder</a></li>
+</ul>
+</li>
+<li>
+<p>You need help:</p>
+<ul>
+<li>Contact the <a href="https://www.chemotion.net/helpdesk">helpdesk</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="suggested-reading">Suggested reading</h3>
+<ul>
+<li>Tremouilhac et al. (2017): Chemotion ELN: an Open Source electronic lab notebook for chemists in academia. In: Journal of cheminformatics 9 (1), p. 54. DOI: <a href="https://doi.org/10.1186/s13321-017-0240-0">https://doi.org/10.1186/s13321-017-0240-0</a>.</li>
+<li>Kotov et al. (2018): Chemotion-ELN part 2: adaption of an embedded Ketcher editor to advanced research applications. In: Journal of cheminformatics 10 (1), p. 38. DOI: <a href="https://doi.org/10.1186/s13321-018-0292-9">https://doi.org/10.1186/s13321-018-0292-9</a>.</li>
+</ul>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  
+  
+  <nav class="md-footer__inner md-grid" aria-label="" >
+    
+    
+    <a href="../2.2_Selection_Electronic_Lab_Notebooks/" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: 2.2 Selection of Electronic Lab Notebooks" rel="prev">
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </div>
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Previous
+        </span>
+        <div class="md-ellipsis">
+          2.2 Selection of Electronic Lab Notebooks
+        </div>
+      </div>
+    </a>
+    
+    
+    
+    <a href="../2.4_Kadi4Mat/" class="md-footer__link md-footer__link--next"
+      aria-label="Next: 2.4 Example: Kadi4Mat" rel="next">
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Next
+        </span>
+        <div class="md-ellipsis">
+          2.4 Example: Kadi4Mat
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center">
+      
+        <div class="md-copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+              alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/a9f9eb58f58a4c39a32609c160ca52922c41fc2a/resources/attachments/cc-by.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>.
+        </div>
+      
+      </div>
+
+    </div>
+      <div class="cite-example md-copyright">
+        <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
+          Cite as:
+          
+            
+            
+            
+              Leister, Carolin.
+            
+          
+          (2024). Electronic Lab Notebooks - Support from data acquisition to publication (1.1.1). 
+          <a href="https://doi.org/10.5281/zenodo.11242027">&nbsp;https://doi.org/10.5281/zenodo.11242027</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "content.tooltips", "search.highlight", "search.suggest"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.8492ddcf.min.js"></script>
+      
+    
+  </body>
+</html>
