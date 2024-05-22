@@ -11,7 +11,7 @@ tags:
 <div class="warning" style='padding:0.1em; background-color:#00876C; color:#FFFFFF'>
 <span>
 <p style='margin-left:1em;'>
-First of all: Welcome!
+First of all: **Welcome!**
 </p>
 </span>
 </div>
