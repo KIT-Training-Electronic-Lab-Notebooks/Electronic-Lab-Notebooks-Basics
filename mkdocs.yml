@@ -1,4 +1,4 @@
-site_name: Electronic Lab Notebooks
+site_name: Electronic Lab Notebooks (ELNs)
 docs_dir: resources
 theme:
   name: material
