@@ -19,6 +19,7 @@
 - Added video on Chemotion from Youtube.
 - Update on Welcome section.
 - Update on Facilitator Guide and Lessons Plan.
+- Powerpoint slides added.
 
 ## 1.0.0 (2023-12-19)
 
